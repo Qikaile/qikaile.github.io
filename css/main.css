@@ -2351,7 +2351,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff87ff;
+  background: #ff4d9e;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3775,10 +3775,10 @@ body {
   display: none;
 }
 * {
-  cursor: url("/images/default.cur"), auto;
+  cursor: url("https://gitee.com/sky_mirrors_the_clouds/cloudimg/raw/master/https://gitee.com/sky_mirrors_the_clouds/cloudimg/default.png"), auto;
 }
 :link {
-  cursor: url("/images/pointer.cur"), auto;
+  cursor: url("https://gitee.com/sky_mirrors_the_clouds/cloudimg/raw/master/https://gitee.com/sky_mirrors_the_clouds/cloudimg/pointer.png"), auto;
 }
 .post-widgets {
   margin-bottom: 45px;
