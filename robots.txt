@@ -12,5 +12,5 @@ Disallow: /vendors/
 Disallow: /fancybox/
 Disallow: /categories/
 
-Sitemap: http://rogn.top/sitemap.xml
-Sitemap: http://rogn.top/baidusitemap.xml
+Sitemap: https://qikaile.tk/sitemap.xml
+Sitemap: https://qikaile.tk/baidusitemap.xml
