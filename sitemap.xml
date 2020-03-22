@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://qikaile.tk/photos/data.json</loc>
+    
+    <lastmod>2020-03-22T09:19:17.257Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qikaile.tk/photos/index.html</loc>
+    
+    <lastmod>2020-03-22T07:49:01.488Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://qikaile.tk/archives/18b3b16a.html</loc>
     
     <lastmod>2020-03-22T07:08:14.846Z</lastmod>
@@ -19,13 +33,6 @@
     <loc>https://qikaile.tk/books/index.html</loc>
     
     <lastmod>2020-03-20T05:55:13.948Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qikaile.tk/photos/index.html</loc>
-    
-    <lastmod>2020-03-20T05:47:20.216Z</lastmod>
     
   </url>
   
