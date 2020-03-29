@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://qikaile.tk/"/>
-  <updated>2020-03-28T11:03:46.781Z</updated>
+  <updated>2020-03-29T08:35:24.152Z</updated>
   <id>https://qikaile.tk/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://qikaile.tk/archives/PS%E5%8A%9F%E8%83%BD%E7%B2%BE%E9%80%9A%E8%AF%BE.html"/>
     <id>https://qikaile.tk/archives/PS%E5%8A%9F%E8%83%BD%E7%B2%BE%E9%80%9A%E8%AF%BE.html</id>
     <published>2020-03-27T16:00:00.000Z</published>
-    <updated>2020-03-28T11:03:46.781Z</updated>
+    <updated>2020-03-29T08:35:24.152Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,7 @@
       
         
         
-          &lt;!-- build time:Sun Mar 29 2020 11:58:06 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;我用双手成就你的梦想&quot;&gt;&lt;a href=&quot;#我用双手成就你的梦想&quot; class=&quot;headerlink&quot;
+          &lt;!-- build time:Sun Mar 29 2020 20:34:09 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;我用双手成就你的梦想&quot;&gt;&lt;a href=&quot;#我用双手成就你的梦想&quot; class=&quot;headerlink&quot;
         
       
     
@@ -44,11 +44,11 @@
   </entry>
   
   <entry>
-    <title>pandas中文手册</title>
-    <link href="https://qikaile.tk/archives/pandas%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.html"/>
-    <id>https://qikaile.tk/archives/pandas%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.html</id>
+    <title>Pandas中文手册</title>
+    <link href="https://qikaile.tk/archives/Pandas%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.html"/>
+    <id>https://qikaile.tk/archives/Pandas%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.html</id>
     <published>2020-03-27T16:00:00.000Z</published>
-    <updated>2020-03-29T00:21:17.312Z</updated>
+    <updated>2020-03-29T08:35:07.209Z</updated>
     
     <summary type="html">
     
@@ -56,14 +56,14 @@
       
         
         
-          &lt;!-- build time:Sun Mar 29 2020 11:58:06 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;如果你想学习Pandas，建议先看两个网站。&lt;/p&gt;&lt;p&gt;（1）官网：Python Data Analysis
+          &lt;!-- build time:Sun Mar 29 2020 20:34:09 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;如果你想学习Pandas，建议先看两个网站。&lt;/p&gt;&lt;p&gt;（1）官网：Python Data Analysis
         
       
     
     </summary>
     
     
-      <category term="pandas" scheme="https://qikaile.tk/categories/pandas/"/>
+      <category term="Pandas" scheme="https://qikaile.tk/categories/Pandas/"/>
     
     
       <category term="pandas" scheme="https://qikaile.tk/tags/pandas/"/>
@@ -75,7 +75,7 @@
     <link href="https://qikaile.tk/archives/%E5%8D%81%E5%88%86%E9%92%9F%E6%90%9E%E5%AE%9A%20pandas.html"/>
     <id>https://qikaile.tk/archives/%E5%8D%81%E5%88%86%E9%92%9F%E6%90%9E%E5%AE%9A%20pandas.html</id>
     <published>2020-03-27T16:00:00.000Z</published>
-    <updated>2020-03-28T08:02:57.290Z</updated>
+    <updated>2020-03-29T08:36:04.779Z</updated>
     
     <summary type="html">
     
@@ -83,7 +83,7 @@
       
         
         
-          &lt;!-- build time:Sun Mar 29 2020 11:58:07 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;官方网站上《10 Minutes to pandas》的一个简单的翻译，原文在&lt;a
+          &lt;!-- build time:Sun Mar 29 2020 20:34:09 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;官方网站上《10 Minutes to pandas》的一个简单的翻译，原文在&lt;a
         
       
     
@@ -102,7 +102,7 @@
     <link href="https://qikaile.tk/archives/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.html"/>
     <id>https://qikaile.tk/archives/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.html</id>
     <published>2020-03-27T16:00:00.000Z</published>
-    <updated>2020-03-28T06:11:19.637Z</updated>
+    <updated>2020-03-29T08:35:48.894Z</updated>
     
     <summary type="html">
     
@@ -110,7 +110,7 @@
       
         
         
-          &lt;!-- build time:Sun Mar 29 2020 11:58:07 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;机器学习概述&quot;&gt;&lt;a href=&quot;#机器学习概述&quot; class=&quot;headerlink&quot;
+          &lt;!-- build time:Sun Mar 29 2020 20:34:10 GMT+0800 (GMT+08:00) --&gt;&lt;h2 id=&quot;机器学习概述&quot;&gt;&lt;a href=&quot;#机器学习概述&quot; class=&quot;headerlink&quot;
         
       
     
@@ -131,38 +131,15 @@
   </entry>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://qikaile.tk/archives/4a17b156.html"/>
-    <id>https://qikaile.tk/archives/4a17b156.html</id>
-    <published>2020-03-21T11:23:04.295Z</published>
-    <updated>2020-03-15T12:48:58.100Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;!-- build time:Sun Mar 29 2020 11:58:06 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>Hexo搭建个人博客系列：主题美化篇</title>
     <link href="https://qikaile.tk/archives/18b3b16a.html"/>
     <id>https://qikaile.tk/archives/18b3b16a.html</id>
     <published>2020-03-18T16:00:00.000Z</published>
-    <updated>2020-03-22T07:08:14.846Z</updated>
+    <updated>2020-03-29T08:34:52.008Z</updated>
     
     <summary type="html">
     
-      &lt;!-- build time:Sun Mar 29 2020 11:58:06 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;img src=&quot;http://yearito-1256884783.image.myqcloud.com/thumbnails/coast.jpg!thumbnail&quot; alt=&quot;题图&quot; title=&quot;Photo by Marina Weishaupt&quot;&gt;&lt;/p&gt;&lt;p&gt;本文介绍了在Next主题的基础上进一步对博客进行美化的方案，主要包括:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;在文章末尾添加结束标记&lt;/li&gt;&lt;li&gt;修改侧边栏的位置到左边&lt;/li&gt;&lt;li&gt;添加不同类型的动态背景效果&lt;/li&gt;&lt;li&gt;添加 live2d 看板娘&lt;/li&gt;&lt;li&gt;为布局元素添加边缘弹性摆动效果&lt;/li&gt;&lt;li&gt;个性化回到顶部按钮&lt;/li&gt;&lt;li&gt;添加不同类型的鼠标点击特效&lt;/li&gt;&lt;li&gt;评论区输入打字礼花特效&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;读者可以根据需要选择其中喜欢的方案应用到站点博客中。&lt;/p&gt;
+      &lt;!-- build time:Sun Mar 29 2020 20:34:09 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;&lt;img src=&quot;http://yearito-1256884783.image.myqcloud.com/thumbnails/coast.jpg!thumbnail&quot; alt=&quot;题图&quot; title=&quot;Photo by Marina Weishaupt&quot;&gt;&lt;/p&gt;&lt;p&gt;本文介绍了在Next主题的基础上进一步对博客进行美化的方案，主要包括:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;在文章末尾添加结束标记&lt;/li&gt;&lt;li&gt;修改侧边栏的位置到左边&lt;/li&gt;&lt;li&gt;添加不同类型的动态背景效果&lt;/li&gt;&lt;li&gt;添加 live2d 看板娘&lt;/li&gt;&lt;li&gt;为布局元素添加边缘弹性摆动效果&lt;/li&gt;&lt;li&gt;个性化回到顶部按钮&lt;/li&gt;&lt;li&gt;添加不同类型的鼠标点击特效&lt;/li&gt;&lt;li&gt;评论区输入打字礼花特效&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;读者可以根据需要选择其中喜欢的方案应用到站点博客中。&lt;/p&gt;
     
     </summary>
     
@@ -173,6 +150,29 @@
     
     
       <category term="Hexo" scheme="https://qikaile.tk/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://qikaile.tk/archives/4a17b156.html"/>
+    <id>https://qikaile.tk/archives/4a17b156.html</id>
+    <published>2020-03-13T16:00:00.000Z</published>
+    <updated>2020-03-29T08:24:08.235Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;!-- build time:Sun Mar 29 2020 20:34:09 GMT+0800 (GMT+08:00) --&gt;&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener
+        
+      
+    
+    </summary>
+    
+    
     
   </entry>
   
