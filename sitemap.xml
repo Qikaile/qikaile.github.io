@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://qikaile.tk/shuoshuo/index.html</loc>
+    
+    <lastmod>2020-04-01T13:38:18.006Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qikaile.tk/links/index.html</loc>
+    
+    <lastmod>2020-04-01T12:34:10.440Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qikaile.tk/about/index.html</loc>
+    
+    <lastmod>2020-04-01T12:16:17.245Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://qikaile.tk/404.html</loc>
     
     <lastmod>2020-04-01T01:17:43.059Z</lastmod>
@@ -79,13 +100,6 @@
   </url>
   
   <url>
-    <loc>https://qikaile.tk/about/index.html</loc>
-    
-    <lastmod>2020-03-29T05:42:31.819Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://qikaile.tk/photos/photoslist.json</loc>
     
     <lastmod>2020-03-22T10:40:34.684Z</lastmod>
@@ -110,13 +124,6 @@
     <loc>https://qikaile.tk/tags/index.html</loc>
     
     <lastmod>2020-03-16T06:41:11.758Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qikaile.tk/links/index.html</loc>
-    
-    <lastmod>2020-03-15T09:31:40.956Z</lastmod>
     
   </url>
   
