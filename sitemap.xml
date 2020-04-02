@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://qikaile.tk/photos/index.html</loc>
+    
+    <lastmod>2020-04-02T09:52:34.149Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qikaile.tk/photos/data.json</loc>
+    
+    <lastmod>2020-04-02T09:25:17.299Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qikaile.tk/gallery/index.html</loc>
+    
+    <lastmod>2020-04-02T07:31:02.819Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qikaile.tk/about/index.html</loc>
+    
+    <lastmod>2020-04-02T07:26:26.246Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://qikaile.tk/shuoshuo/index.html</loc>
     
     <lastmod>2020-04-01T13:38:18.006Z</lastmod>
@@ -16,23 +44,9 @@
   </url>
   
   <url>
-    <loc>https://qikaile.tk/about/index.html</loc>
-    
-    <lastmod>2020-04-01T12:16:17.245Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://qikaile.tk/404.html</loc>
     
     <lastmod>2020-04-01T01:17:43.059Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qikaile.tk/gallery/index.html</loc>
-    
-    <lastmod>2020-04-01T00:50:31.445Z</lastmod>
     
   </url>
   
@@ -96,20 +110,6 @@
     <loc>https://qikaile.tk/archives/4a17b156.html</loc>
     
     <lastmod>2020-03-29T08:24:08.235Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qikaile.tk/photos/photoslist.json</loc>
-    
-    <lastmod>2020-03-22T10:40:34.684Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qikaile.tk/photos/index.html</loc>
-    
-    <lastmod>2020-03-22T09:46:38.012Z</lastmod>
     
   </url>
   
