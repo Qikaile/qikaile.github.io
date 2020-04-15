@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://qikaile.tk/hello-world.html</loc>
+    <lastmod>2020-04-15</lastmod>
+  </url>  <url>
     <loc>https://qikaile.tk/pandas%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.html</loc>
     <lastmod>2020-04-15</lastmod>
   </url>  <url>
@@ -15,8 +18,5 @@
   </url>  <url>
     <loc>https://qikaile.tk/hexo-theme-beautify.html</loc>
     <lastmod>2020-04-04</lastmod>
-  </url>  <url>
-    <loc>https://qikaile.tk/hello-world.html</loc>
-    <lastmod>2020-03-29</lastmod>
   </url>
 </urlset>
