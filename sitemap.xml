@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://qikaile.tk/froalaEditor.html</loc>
+    <loc>https://qikaile.tk/tools/index.html</loc>
     
-    <lastmod>2020-04-19T11:39:18.720Z</lastmod>
+    <lastmod>2020-04-19T12:58:43.397Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qikaile.tk/bookmark/index.html</loc>
+    
+    <lastmod>2020-04-19T12:55:30.220Z</lastmod>
     
   </url>
   
@@ -26,13 +33,6 @@
     <loc>https://qikaile.tk/about/index.html</loc>
     
     <lastmod>2020-04-15T07:37:20.564Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qikaile.tk/tools/index.html</loc>
-    
-    <lastmod>2020-04-15T07:24:18.027Z</lastmod>
     
   </url>
   
