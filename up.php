@@ -16,7 +16,7 @@ date_default_timezone_set("PRC");
 define("REPO","autoPicCdn");//必须是下面用户名下的公开仓库
 define("USER","Qikaile");//必须是当前GitHub用户名
 define("MAIL","mail@foxmail.com");//
-define("TOKEN","6a89f9cd4a0ba10a6c5f200067bfea184fc26107");//https://github.com/settings/tokens 去这个页面生成一个有写权限的token（write:packages前打勾）
+define("TOKEN","3f385603a4297fedc5c457fb5d64fb5005491afb");//https://github.com/settings/tokens 去这个页面生成一个有写权限的token（write:packages前打勾）
 
 function upload($url, $content)
 {
