@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://qikaile.tk/music/index.html</loc>
+    
+    <lastmod>2020-04-20T06:52:36.567Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://qikaile.tk/tools/index.html</loc>
     
-    <lastmod>2020-04-20T04:58:42.937Z</lastmod>
+    <lastmod>2020-04-20T05:07:42.712Z</lastmod>
     
   </url>
   
@@ -12,13 +19,6 @@
     <loc>https://qikaile.tk/bookmark/index.html</loc>
     
     <lastmod>2020-04-19T12:55:30.220Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qikaile.tk/music/index.html</loc>
-    
-    <lastmod>2020-04-16T23:52:24.288Z</lastmod>
     
   </url>
   
