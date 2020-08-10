@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://qikaile.gitee.io/blog/photos/index.html</loc>
+    
+    <lastmod>2020-08-10T10:19:17.826Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://qikaile.gitee.io/blog/markdown%E7%AC%94%E8%AE%B0.html</loc>
     
     <lastmod>2020-06-15T06:22:19.535Z</lastmod>
@@ -68,13 +75,6 @@
     <loc>https://qikaile.gitee.io/blog/shuoshuo/index.html</loc>
     
     <lastmod>2020-04-08T02:03:45.267Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qikaile.gitee.io/blog/photos/index.html</loc>
-    
-    <lastmod>2020-04-08T01:57:35.252Z</lastmod>
     
   </url>
   
