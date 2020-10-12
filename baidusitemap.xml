@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://qikaile.tk/hexo-theme-beautify.html</loc>
+    <lastmod>2020-10-12</lastmod>
+  </url>  <url>
     <loc>https://qikaile.tk/markdown%E7%AC%94%E8%AE%B0.html</loc>
     <lastmod>2020-06-15</lastmod>
   </url>  <url>
@@ -14,9 +17,6 @@
     <lastmod>2020-04-04</lastmod>
   </url>  <url>
     <loc>https://qikaile.tk/PS%E5%8A%9F%E8%83%BD%E7%B2%BE%E9%80%9A%E8%AF%BE.html</loc>
-    <lastmod>2020-04-04</lastmod>
-  </url>  <url>
-    <loc>https://qikaile.tk/hexo-theme-beautify.html</loc>
     <lastmod>2020-04-04</lastmod>
   </url>  <url>
     <loc>https://qikaile.tk/hello-world.html</loc>
