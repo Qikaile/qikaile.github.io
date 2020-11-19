@@ -3,11 +3,11 @@
   <title>天镜云生</title>
   
   <subtitle>Welcome!</subtitle>
-  <link href="https://qikaile.gitee.io/volantis/atom.xml" rel="self"/>
+  <link href="https://qikaile.tk/volantis/atom.xml" rel="self"/>
   
-  <link href="https://qikaile.gitee.io/volantis/"/>
+  <link href="https://qikaile.tk/volantis/"/>
   <updated>2020-11-19T02:41:50.041Z</updated>
-  <id>https://qikaile.gitee.io/volantis/</id>
+  <id>https://qikaile.tk/volantis/</id>
   
   <author>
     <name>TJYS</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Solidworks学习笔记</title>
-    <link href="https://qikaile.gitee.io/volantis/posts/26833.html"/>
-    <id>https://qikaile.gitee.io/volantis/posts/26833.html</id>
+    <link href="https://qikaile.tk/volantis/posts/26833.html"/>
+    <id>https://qikaile.tk/volantis/posts/26833.html</id>
     <published>2020-11-19T02:40:26.000Z</published>
     <updated>2020-11-19T02:41:50.041Z</updated>
     
@@ -34,14 +34,14 @@
     
     
     
-    <category term="Solidworks" scheme="https://qikaile.gitee.io/volantis/tags/Solidworks/"/>
+    <category term="Solidworks" scheme="https://qikaile.tk/volantis/tags/Solidworks/"/>
     
   </entry>
   
   <entry>
     <title>听力必考21大场景</title>
-    <link href="https://qikaile.gitee.io/volantis/posts/44468.html"/>
-    <id>https://qikaile.gitee.io/volantis/posts/44468.html</id>
+    <link href="https://qikaile.tk/volantis/posts/44468.html"/>
+    <id>https://qikaile.tk/volantis/posts/44468.html</id>
     <published>2020-11-19T02:32:52.000Z</published>
     <updated>2020-11-19T02:34:47.163Z</updated>
     
@@ -56,18 +56,18 @@
     
     
     
-    <category term="English" scheme="https://qikaile.gitee.io/volantis/tags/English/"/>
+    <category term="English" scheme="https://qikaile.tk/volantis/tags/English/"/>
     
   </entry>
   
   <entry>
     <title>免费申请 Office365 E5 开发者订阅</title>
-    <link href="https://qikaile.gitee.io/volantis/posts/61191.html"/>
-    <id>https://qikaile.gitee.io/volantis/posts/61191.html</id>
+    <link href="https://qikaile.tk/volantis/posts/61191.html"/>
+    <id>https://qikaile.tk/volantis/posts/61191.html</id>
     <published>2020-11-19T02:28:03.000Z</published>
     <updated>2020-11-19T02:35:12.178Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\volantis\assets\css\APlayer.min.css"><script src="\volantis\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Office 365 开发版 E5 是为开发人员提供的微软官方活动，申请Office 365开发者计划，可以获得为期3个月的免费Office 365 E5。（注：之前是E3，一年时间的订阅现在更改为E5了）。目前注册该试用版有效期为90天，只要90天内需要证明是开发者理论上无限期续订。</p><p>Office 365 开发版 E5最大可以支持25个订阅者，每一个订阅者都可以获得5T的OneDrive网盘。（后期还可以扩展到25T）</p><p><img src="https://vpswp.com/wp-content/uploads/2020/03/2020031006391310.png" class="lazyload" data-srcset="https://vpswp.com/wp-content/uploads/2020/03/2020031006391310.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII="></p><h2 id="准备："><a href="#准备：" class="headerlink" title="准备："></a>准备：</h2><p>一个微软账号，如果没有，点击下面，注册outlook邮箱就可以了。<a href="https://outlook.live.com/owa/">https://outlook.live.com/owa/</a></p><p>账号格式：<a href="mailto:&#120;&#120;&#120;&#64;&#x6f;&#117;&#116;&#x6c;&#x6f;&#x6f;&#107;&#46;&#x63;&#x6f;&#109;">&#120;&#120;&#120;&#64;&#x6f;&#117;&#116;&#x6c;&#x6f;&#x6f;&#107;&#46;&#x63;&#x6f;&#109;</a> 或者 xxx @hotmail.com</p><h2 id="申请教程"><a href="#申请教程" class="headerlink" title="申请教程"></a>申请教程</h2><ol><li><p>首先进入【Office开发人员中心】<a href="https://developer.microsoft.com/zh-cn/office">https://developer.microsoft.com/zh-cn/office</a> 登录你的微软帐号之后，点击立即加入<br><img src="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/2020.11.15.2.png" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/2020.11.15.2.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII="></p></li><li><p>开通Office开发者账号，并且完善个人信息；<br><img src="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/2020.11.15.3.png" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/2020.11.15.3.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII="><br>设置好之后，下一步，开始勾选，具体如图：<br><img src="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/developer.microsoft.com_zh-cn_microsoft-365_profile_settings_preferences.png" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/developer.microsoft.com_zh-cn_microsoft-365_profile_settings_preferences.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII="></p></li><li><p>进入个人中心，点击设置订阅；<br><img src="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/2020.11.15.5.png" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/2020.11.15.5.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII="></p></li><li><p>填写设置开发者订阅相关的信息；<br><img src="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/2020.11.15.6.png" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/2020.11.15.6.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII="><br>注：保存信息，以后登录控制台管理用到账号 用户名@域名.onmicrosoft.com</p></li><li><p>设置手机号验证（需要代理翻墙）；<br><img src="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/2020.11.15.7.png" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/2020.11.15.7.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII="></p></li><li><p>验证成功后，自动开始设置订阅；<br><img src="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/2020.11.15.8.png" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/2020.11.15.8.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII="></p></li></ol><p>管理地址<br>控制台管理地址：<a href="https://portal.office.com/AdminPortal/Home">https://portal.office.com/AdminPortal/Home</a><br>注意：登录账号如要管理员账号（第3步设置开发人员订阅中设置的 用户名@域名.onmicrosoft.com），登录以后可以查看订阅，进行管理用户等功能！</p><p>在这里登录以后可以查看订阅，进行管理用户等功能！</p><h2 id="1T扩招到5T的教程"><a href="#1T扩招到5T的教程" class="headerlink" title="1T扩招到5T的教程"></a>1T扩招到5T的教程</h2><p>如果是容量是1T，先不要增加订阅者，<br>方法1、登陆<a href="https://admin.onedrive.com/?v=StorageSettings">https://admin.onedrive.com/?v=StorageSettings</a> 修改为 5012GB<br>onedrive容量填写5012GB才是5T（可能计算方法不一样，不是1024*5=5120T！）</p><p><font color=red>★</font>方法2.使用 PowerShell 设置 OneDrive 存储空间</p><p>下载 SharePoint Online Management Shell 并安装<br><a href="https://www.microsoft.com/zh-cn/download/details.aspx?id=35588">https://www.microsoft.com/zh-cn/download/details.aspx?id=35588</a></p><p>运行代码检测安装是否成功<br>Get-Module -Name Microsoft.Online.SharePoint.PowerShell -ListAvailable | Select Name,Version</p><p>使用管理员用户名和密码连接，运行如下代码：</p><p>1、$adminUPN=”<a href="mailto:&#84;&#74;&#x59;&#83;&#x40;&#x71;&#x69;&#x6b;&#97;&#x69;&#x6c;&#x65;&#x2e;&#111;&#110;&#109;&#x69;&#x63;&#x72;&#x6f;&#x73;&#x6f;&#x66;&#x74;&#46;&#x63;&#x6f;&#x6d;">&#84;&#74;&#x59;&#83;&#x40;&#x71;&#x69;&#x6b;&#97;&#x69;&#x6c;&#x65;&#x2e;&#111;&#110;&#109;&#x69;&#x63;&#x72;&#x6f;&#x73;&#x6f;&#x66;&#x74;&#46;&#x63;&#x6f;&#x6d;</a>“</p><p>2、$orgName=”qikaile”</p><p>3、$userCredential = Get-Credential -UserName $adminUPN -Message “Type the password.”</p><p>4、Connect-SPOService -Url https://$orgName-admin.sharepoint.com -Credential $userCredential</p><p># adminUPN 是管理员邮箱，orgName 是你设置的组织名，将其替换即可</p><p>5、然后会弹出一个窗口，会要求帐号的密码</p><p>6、运行以下命令，对用户进行升级扩容：</p><p>Set-SPOSite -Identity &lt;user’s OneDrive URL&gt; -StorageQuota</p><p># &lt;user’s OneDrive URL&gt; 更改为你要扩容的用户URL<br># 是储存空间值，以MB为单位（5242880MB=5TB）</p><p>Set-SPOSite -Identity <a href="https://qikaile-my.sharepoint.com/personal/TJYS_qikaile_onmicrosoft_com">https://qikaile-my.sharepoint.com/personal/TJYS_qikaile_onmicrosoft_com</a> -StorageQuota 5242880</p><p>注意：上面几个标记的要改为你自己的，红色的为你的用户名，蓝色为组织名。</p><h2 id="保持活跃"><a href="#保持活跃" class="headerlink" title="保持活跃"></a>保持活跃</h2><p>因为注册该试用版有效期为90天，90天内需要证明是开发者才能自动续订。目前可以安装oneindex来保持活跃，还可以通过一个开源程序<a href="https://github.com/Qikaile/AutoApiSecret">AutoApiSecret</a>来续订。<br>原理，因为该程序会触及API相关信息因此可以证明是开发者并保持活跃自动更新，所以说，只要能触及api的程序都是有效的。</p><h2 id="如何登陆使用："><a href="#如何登陆使用：" class="headerlink" title="如何登陆使用："></a>如何登陆使用：</h2><p>1.网页<br><a href="https://login.microsoftonline.com/">https://login.microsoftonline.com/</a></p><p>2.本地客户端<br><a href="https://www.onedrive.com/download">https://www.onedrive.com/download</a> （如果该页面无法打开，建议直接在百度上下载onedrive应用）</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\volantis\assets\css\APlayer.min.css"><script src="\volantis\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>Office 365 开发版 E5 是为开发人员提供的微软官方活动，申请Office 365开发者计划，可以获得为期3个月的免费Office 365 E5。（注：之前是E3，一年时间的订阅现在更改为E5了）。目前注册该试用版有效期为90天，只要90天内需要证明是开发者理论上无限期续订。</p><p>Office 365 开发版 E5最大可以支持25个订阅者，每一个订阅者都可以获得5T的OneDrive网盘。（后期还可以扩展到25T）</p><p><img src="https://vpswp.com/wp-content/uploads/2020/03/2020031006391310.png" class="lazyload" data-srcset="https://vpswp.com/wp-content/uploads/2020/03/2020031006391310.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII="></p><h2 id="准备："><a href="#准备：" class="headerlink" title="准备："></a>准备：</h2><p>一个微软账号，如果没有，点击下面，注册outlook邮箱就可以了。<a href="https://outlook.live.com/owa/">https://outlook.live.com/owa/</a></p><p>账号格式：<a href="mailto:&#x78;&#120;&#120;&#x40;&#111;&#117;&#x74;&#108;&#111;&#x6f;&#x6b;&#x2e;&#x63;&#111;&#109;">&#x78;&#120;&#120;&#x40;&#111;&#117;&#x74;&#108;&#111;&#x6f;&#x6b;&#x2e;&#x63;&#111;&#109;</a> 或者 xxx @hotmail.com</p><h2 id="申请教程"><a href="#申请教程" class="headerlink" title="申请教程"></a>申请教程</h2><ol><li><p>首先进入【Office开发人员中心】<a href="https://developer.microsoft.com/zh-cn/office">https://developer.microsoft.com/zh-cn/office</a> 登录你的微软帐号之后，点击立即加入<br><img src="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/2020.11.15.2.png" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/2020.11.15.2.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII="></p></li><li><p>开通Office开发者账号，并且完善个人信息；<br><img src="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/2020.11.15.3.png" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/2020.11.15.3.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII="><br>设置好之后，下一步，开始勾选，具体如图：<br><img src="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/developer.microsoft.com_zh-cn_microsoft-365_profile_settings_preferences.png" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/developer.microsoft.com_zh-cn_microsoft-365_profile_settings_preferences.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII="></p></li><li><p>进入个人中心，点击设置订阅；<br><img src="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/2020.11.15.5.png" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/2020.11.15.5.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII="></p></li><li><p>填写设置开发者订阅相关的信息；<br><img src="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/2020.11.15.6.png" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/2020.11.15.6.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII="><br>注：保存信息，以后登录控制台管理用到账号 用户名@域名.onmicrosoft.com</p></li><li><p>设置手机号验证（需要代理翻墙）；<br><img src="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/2020.11.15.7.png" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/2020.11.15.7.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII="></p></li><li><p>验证成功后，自动开始设置订阅；<br><img src="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/2020.11.15.8.png" class="lazyload" data-srcset="https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/2020.11.15.8.png" srcset="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAABGdBTUEAALGPC/xhBQAAADhlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAAaADAAQAAAABAAAAAQAAAADa6r/EAAAAC0lEQVQIHWNgAAIAAAUAAY27m/MAAAAASUVORK5CYII="></p></li></ol><p>管理地址<br>控制台管理地址：<a href="https://portal.office.com/AdminPortal/Home">https://portal.office.com/AdminPortal/Home</a><br>注意：登录账号如要管理员账号（第3步设置开发人员订阅中设置的 用户名@域名.onmicrosoft.com），登录以后可以查看订阅，进行管理用户等功能！</p><p>在这里登录以后可以查看订阅，进行管理用户等功能！</p><h2 id="1T扩招到5T的教程"><a href="#1T扩招到5T的教程" class="headerlink" title="1T扩招到5T的教程"></a>1T扩招到5T的教程</h2><p>如果是容量是1T，先不要增加订阅者，<br>方法1、登陆<a href="https://admin.onedrive.com/?v=StorageSettings">https://admin.onedrive.com/?v=StorageSettings</a> 修改为 5012GB<br>onedrive容量填写5012GB才是5T（可能计算方法不一样，不是1024*5=5120T！）</p><p><font color=red>★</font>方法2.使用 PowerShell 设置 OneDrive 存储空间</p><p>下载 SharePoint Online Management Shell 并安装<br><a href="https://www.microsoft.com/zh-cn/download/details.aspx?id=35588">https://www.microsoft.com/zh-cn/download/details.aspx?id=35588</a></p><p>运行代码检测安装是否成功<br>Get-Module -Name Microsoft.Online.SharePoint.PowerShell -ListAvailable | Select Name,Version</p><p>使用管理员用户名和密码连接，运行如下代码：</p><p>1、$adminUPN=”<a href="mailto:&#x54;&#x4a;&#89;&#83;&#64;&#x71;&#105;&#107;&#x61;&#105;&#x6c;&#101;&#46;&#x6f;&#x6e;&#x6d;&#x69;&#x63;&#114;&#x6f;&#115;&#x6f;&#x66;&#x74;&#x2e;&#99;&#111;&#109;">&#x54;&#x4a;&#89;&#83;&#64;&#x71;&#105;&#107;&#x61;&#105;&#x6c;&#101;&#46;&#x6f;&#x6e;&#x6d;&#x69;&#x63;&#114;&#x6f;&#115;&#x6f;&#x66;&#x74;&#x2e;&#99;&#111;&#109;</a>“</p><p>2、$orgName=”qikaile”</p><p>3、$userCredential = Get-Credential -UserName $adminUPN -Message “Type the password.”</p><p>4、Connect-SPOService -Url https://$orgName-admin.sharepoint.com -Credential $userCredential</p><p># adminUPN 是管理员邮箱，orgName 是你设置的组织名，将其替换即可</p><p>5、然后会弹出一个窗口，会要求帐号的密码</p><p>6、运行以下命令，对用户进行升级扩容：</p><p>Set-SPOSite -Identity &lt;user’s OneDrive URL&gt; -StorageQuota</p><p># &lt;user’s OneDrive URL&gt; 更改为你要扩容的用户URL<br># 是储存空间值，以MB为单位（5242880MB=5TB）</p><p>Set-SPOSite -Identity <a href="https://qikaile-my.sharepoint.com/personal/TJYS_qikaile_onmicrosoft_com">https://qikaile-my.sharepoint.com/personal/TJYS_qikaile_onmicrosoft_com</a> -StorageQuota 5242880</p><p>注意：上面几个标记的要改为你自己的，红色的为你的用户名，蓝色为组织名。</p><h2 id="保持活跃"><a href="#保持活跃" class="headerlink" title="保持活跃"></a>保持活跃</h2><p>因为注册该试用版有效期为90天，90天内需要证明是开发者才能自动续订。目前可以安装oneindex来保持活跃，还可以通过一个开源程序<a href="https://github.com/Qikaile/AutoApiSecret">AutoApiSecret</a>来续订。<br>原理，因为该程序会触及API相关信息因此可以证明是开发者并保持活跃自动更新，所以说，只要能触及api的程序都是有效的。</p><h2 id="如何登陆使用："><a href="#如何登陆使用：" class="headerlink" title="如何登陆使用："></a>如何登陆使用：</h2><p>1.网页<br><a href="https://login.microsoftonline.com/">https://login.microsoftonline.com/</a></p><p>2.本地客户端<br><a href="https://www.onedrive.com/download">https://www.onedrive.com/download</a> （如果该页面无法打开，建议直接在百度上下载onedrive应用）</p>]]></content>
     
     
       
@@ -78,14 +78,14 @@
     
     
     
-    <category term="Office" scheme="https://qikaile.gitee.io/volantis/tags/Office/"/>
+    <category term="Office" scheme="https://qikaile.tk/volantis/tags/Office/"/>
     
   </entry>
   
   <entry>
     <title>Shotcut</title>
-    <link href="https://qikaile.gitee.io/volantis/posts/48498.html"/>
-    <id>https://qikaile.gitee.io/volantis/posts/48498.html</id>
+    <link href="https://qikaile.tk/volantis/posts/48498.html"/>
+    <id>https://qikaile.tk/volantis/posts/48498.html</id>
     <published>2020-11-19T01:09:28.000Z</published>
     <updated>2020-11-19T02:36:22.370Z</updated>
     
@@ -104,8 +104,8 @@
   
   <entry>
     <title>Python绘图</title>
-    <link href="https://qikaile.gitee.io/volantis/posts/16997.html"/>
-    <id>https://qikaile.gitee.io/volantis/posts/16997.html</id>
+    <link href="https://qikaile.tk/volantis/posts/16997.html"/>
+    <id>https://qikaile.tk/volantis/posts/16997.html</id>
     <published>2020-11-19T00:55:33.000Z</published>
     <updated>2020-11-19T02:36:23.836Z</updated>
     
@@ -120,14 +120,14 @@
     
     
     
-    <category term="Python" scheme="https://qikaile.gitee.io/volantis/tags/Python/"/>
+    <category term="Python" scheme="https://qikaile.tk/volantis/tags/Python/"/>
     
   </entry>
   
   <entry>
     <title>机器学习课程</title>
-    <link href="https://qikaile.gitee.io/volantis/posts/17213.html"/>
-    <id>https://qikaile.gitee.io/volantis/posts/17213.html</id>
+    <link href="https://qikaile.tk/volantis/posts/17213.html"/>
+    <id>https://qikaile.tk/volantis/posts/17213.html</id>
     <published>2020-11-18T06:16:05.000Z</published>
     <updated>2020-11-18T06:26:21.013Z</updated>
     
@@ -141,17 +141,17 @@
     
     
     
-    <category term="机器学习" scheme="https://qikaile.gitee.io/volantis/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="机器学习" scheme="https://qikaile.tk/volantis/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
     
-    <category term="机器学习" scheme="https://qikaile.gitee.io/volantis/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    <category term="机器学习" scheme="https://qikaile.tk/volantis/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
   <entry>
     <title>Hexo之volantis主题标签插件合集</title>
-    <link href="https://qikaile.gitee.io/volantis/posts/61254.html"/>
-    <id>https://qikaile.gitee.io/volantis/posts/61254.html</id>
+    <link href="https://qikaile.tk/volantis/posts/61254.html"/>
+    <id>https://qikaile.tk/volantis/posts/61254.html</id>
     <published>2020-11-18T01:11:52.000Z</published>
     <updated>2020-11-18T10:01:54.261Z</updated>
     
@@ -166,14 +166,14 @@
     
     
     
-    <category term="hexo" scheme="https://qikaile.gitee.io/volantis/tags/hexo/"/>
+    <category term="hexo" scheme="https://qikaile.tk/volantis/tags/hexo/"/>
     
   </entry>
   
   <entry>
     <title>PS功能精通课</title>
-    <link href="https://qikaile.gitee.io/volantis/posts/48699.html"/>
-    <id>https://qikaile.gitee.io/volantis/posts/48699.html</id>
+    <link href="https://qikaile.tk/volantis/posts/48699.html"/>
+    <id>https://qikaile.tk/volantis/posts/48699.html</id>
     <published>2020-11-17T12:13:45.000Z</published>
     <updated>2020-11-17T13:47:21.207Z</updated>
     
@@ -187,17 +187,17 @@
     
     
     
-    <category term="photoshop" scheme="https://qikaile.gitee.io/volantis/categories/photoshop/"/>
+    <category term="photoshop" scheme="https://qikaile.tk/volantis/categories/photoshop/"/>
     
     
-    <category term="photoshop" scheme="https://qikaile.gitee.io/volantis/tags/photoshop/"/>
+    <category term="photoshop" scheme="https://qikaile.tk/volantis/tags/photoshop/"/>
     
   </entry>
   
   <entry>
     <title>markdown笔记</title>
-    <link href="https://qikaile.gitee.io/volantis/posts/30600.html"/>
-    <id>https://qikaile.gitee.io/volantis/posts/30600.html</id>
+    <link href="https://qikaile.tk/volantis/posts/30600.html"/>
+    <id>https://qikaile.tk/volantis/posts/30600.html</id>
     <published>2020-11-17T10:50:06.000Z</published>
     <updated>2020-11-17T10:52:28.341Z</updated>
     
@@ -212,14 +212,14 @@
     
     
     
-    <category term="markdown" scheme="https://qikaile.gitee.io/volantis/tags/markdown/"/>
+    <category term="markdown" scheme="https://qikaile.tk/volantis/tags/markdown/"/>
     
   </entry>
   
   <entry>
     <title>Pandas中文手册</title>
-    <link href="https://qikaile.gitee.io/volantis/posts/43716.html"/>
-    <id>https://qikaile.gitee.io/volantis/posts/43716.html</id>
+    <link href="https://qikaile.tk/volantis/posts/43716.html"/>
+    <id>https://qikaile.tk/volantis/posts/43716.html</id>
     <published>2020-11-17T10:47:46.000Z</published>
     <updated>2020-11-17T12:07:16.076Z</updated>
     
@@ -233,17 +233,17 @@
     
     
     
-    <category term="Pandas" scheme="https://qikaile.gitee.io/volantis/categories/Pandas/"/>
+    <category term="Pandas" scheme="https://qikaile.tk/volantis/categories/Pandas/"/>
     
     
-    <category term="pandas" scheme="https://qikaile.gitee.io/volantis/tags/pandas/"/>
+    <category term="pandas" scheme="https://qikaile.tk/volantis/tags/pandas/"/>
     
   </entry>
   
   <entry>
     <title>十分钟搞定 pandas</title>
-    <link href="https://qikaile.gitee.io/volantis/posts/6936.html"/>
-    <id>https://qikaile.gitee.io/volantis/posts/6936.html</id>
+    <link href="https://qikaile.tk/volantis/posts/6936.html"/>
+    <id>https://qikaile.tk/volantis/posts/6936.html</id>
     <published>2020-11-17T10:28:58.000Z</published>
     <updated>2020-11-17T13:30:09.257Z</updated>
     
@@ -257,17 +257,17 @@
     
     
     
-    <category term="Pandas" scheme="https://qikaile.gitee.io/volantis/categories/Pandas/"/>
+    <category term="Pandas" scheme="https://qikaile.tk/volantis/categories/Pandas/"/>
     
     
-    <category term="pandas" scheme="https://qikaile.gitee.io/volantis/tags/pandas/"/>
+    <category term="pandas" scheme="https://qikaile.tk/volantis/tags/pandas/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="https://qikaile.gitee.io/volantis/posts/16107.html"/>
-    <id>https://qikaile.gitee.io/volantis/posts/16107.html</id>
+    <link href="https://qikaile.tk/volantis/posts/16107.html"/>
+    <id>https://qikaile.tk/volantis/posts/16107.html</id>
     <published>2020-11-17T07:02:43.539Z</published>
     <updated>2020-11-17T08:48:15.669Z</updated>
     
