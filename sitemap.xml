@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://qikaile.tk/gallery/index.html</loc>
+    
+    <lastmod>2020-11-20T08:18:27.550Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://qikaile.tk/hexo-theme-beautify.html</loc>
     
     <lastmod>2020-10-12T09:08:59.840Z</lastmod>
@@ -61,13 +68,6 @@
     <loc>https://qikaile.tk/markdown/index.html</loc>
     
     <lastmod>2020-04-21T13:39:42.577Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qikaile.tk/gallery/index.html</loc>
-    
-    <lastmod>2020-04-16T12:53:40.784Z</lastmod>
     
   </url>
   

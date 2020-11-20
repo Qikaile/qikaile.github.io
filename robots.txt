@@ -10,7 +10,6 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
-Disallow: /categories/
 
 Sitemap: https://qikaile.tk/sitemap.xml
 Sitemap: https://qikaile.tk/baidusitemap.xml
