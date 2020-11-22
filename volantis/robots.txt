@@ -1,5 +1,10 @@
 User-agent: *
 Allow: /
+Allow: /home/
+Allow: /about/
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
 
 Sitemap: https://qikaile.tk/volantis/sitemap.xml
 Sitemap: https://qikaile.tk/volantis/baidusitemap.xml
