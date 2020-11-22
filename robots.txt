@@ -1,15 +1,5 @@
 User-agent: *
 Allow: /
-Allow: /home/
-Allow: /about/
-Allow: /archives/
-Allow: /categories/
-Allow: /tags/
-Disallow: /js/
-Disallow: /css/
-Disallow: /fonts/
-Disallow: /vendors/
-Disallow: /fancybox/
 
 Sitemap: https://qikaile.tk/sitemap.xml
 Sitemap: https://qikaile.tk/baidusitemap.xml
