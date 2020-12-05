@@ -5090,6 +5090,15 @@ a.comments-detail:hover {
   border-top-left-radius: 8px;
   border-top-right-radius: 8px;
 }
+.user-bg {
+  width: 100%;
+  height: 120px;
+  background-image: url("https://tva3.sinaimg.cn/large/0084aYsLgy1ggstmn4t0mj30pk08cwgg.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
 .relive_widget_v3 {
   border-radius: 0 0 5px 5px;
   position: relative;
