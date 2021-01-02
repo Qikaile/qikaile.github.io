@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://qikaile.tk/volantis/vadmin/index.html</loc>
+    
+    <lastmod>2020-12-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qikaile.tk/volantis/guestbook/index.html</loc>
+    
+    <lastmod>2020-12-26</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://qikaile.tk/volantis/demolist/index.html</loc>
+    
+    <lastmod>2020-12-18</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://qikaile.tk/volantis/posts/28586.html</loc>
     
     <lastmod>2020-12-14</lastmod>
@@ -19,13 +40,6 @@
     <loc>https://qikaile.tk/volantis/about/index.html</loc>
     
     <lastmod>2020-12-05</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://qikaile.tk/volantis/guestbook/index.html</loc>
-    
-    <lastmod>2020-12-03</lastmod>
     
   </url>
   
@@ -137,7 +151,7 @@
 
   <url>
     <loc>https://qikaile.tk/volantis</loc>
-    <lastmod>2020-12-14</lastmod>
+    <lastmod>2021-01-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -145,63 +159,63 @@
   
   <url>
     <loc>https://qikaile.tk/volantis/tags/Office/</loc>
-    <lastmod>2020-12-14</lastmod>
+    <lastmod>2021-01-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qikaile.tk/volantis/tags/Python/</loc>
-    <lastmod>2020-12-14</lastmod>
+    <lastmod>2021-01-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qikaile.tk/volantis/tags/English/</loc>
-    <lastmod>2020-12-14</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://qikaile.tk/volantis/tags/pandas/</loc>
-    <lastmod>2020-12-14</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://qikaile.tk/volantis/tags/markdown/</loc>
-    <lastmod>2020-12-14</lastmod>
+    <lastmod>2021-01-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qikaile.tk/volantis/tags/Solidworks/</loc>
-    <lastmod>2020-12-14</lastmod>
+    <lastmod>2021-01-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qikaile.tk/volantis/tags/pandas/</loc>
+    <lastmod>2021-01-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://qikaile.tk/volantis/tags/markdown/</loc>
+    <lastmod>2021-01-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qikaile.tk/volantis/tags/photoshop/</loc>
-    <lastmod>2020-12-14</lastmod>
+    <lastmod>2021-01-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qikaile.tk/volantis/tags/hexo/</loc>
-    <lastmod>2020-12-14</lastmod>
+    <lastmod>2021-01-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qikaile.tk/volantis/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2020-12-14</lastmod>
+    <lastmod>2021-01-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -210,21 +224,21 @@
   
   <url>
     <loc>https://qikaile.tk/volantis/categories/Pandas/</loc>
-    <lastmod>2020-12-14</lastmod>
+    <lastmod>2021-01-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qikaile.tk/volantis/categories/photoshop/</loc>
-    <lastmod>2020-12-14</lastmod>
+    <lastmod>2021-01-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://qikaile.tk/volantis/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2020-12-14</lastmod>
+    <lastmod>2021-01-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
