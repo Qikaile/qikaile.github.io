@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>天镜云生</title>
-  <icon>https://qikaile.tk/icon.png</icon>
+  <icon>https://qikaile.gitee.io/icon.png</icon>
   <subtitle>云生的个人博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://qikaile.tk/"/>
+  <link href="https://qikaile.gitee.io/"/>
   <updated>2021-01-20T10:49:51.436Z</updated>
-  <id>https://qikaile.tk/</id>
+  <id>https://qikaile.gitee.io/</id>
   
   <author>
     <name>TJYS</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hexo中使用emoji表情</title>
-    <link href="https://qikaile.tk/hexo-emoji.html"/>
-    <id>https://qikaile.tk/hexo-emoji.html</id>
+    <link href="https://qikaile.gitee.io/hexo-emoji.html"/>
+    <id>https://qikaile.gitee.io/hexo-emoji.html</id>
     <published>2021-01-20T03:13:23.000Z</published>
     <updated>2021-01-20T10:49:51.436Z</updated>
     
@@ -36,19 +36,19 @@
     </summary>
     
     
-      <category term="Hexo" scheme="https://qikaile.tk/categories/Hexo/"/>
+      <category term="Hexo" scheme="https://qikaile.gitee.io/categories/Hexo/"/>
     
     
-      <category term="Hexo" scheme="https://qikaile.tk/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://qikaile.gitee.io/tags/Hexo/"/>
     
-      <category term="Emoji" scheme="https://qikaile.tk/tags/Emoji/"/>
+      <category term="Emoji" scheme="https://qikaile.gitee.io/tags/Emoji/"/>
     
   </entry>
   
   <entry>
     <title>Office365邮局开启SPF、DKIM与DMARC</title>
-    <link href="https://qikaile.tk/Office365-Post-Office-opens-SPF-DKIM-DMARC.html"/>
-    <id>https://qikaile.tk/Office365-Post-Office-opens-SPF-DKIM-DMARC.html</id>
+    <link href="https://qikaile.gitee.io/Office365-Post-Office-opens-SPF-DKIM-DMARC.html"/>
+    <id>https://qikaile.gitee.io/Office365-Post-Office-opens-SPF-DKIM-DMARC.html</id>
     <published>2021-01-20T03:00:12.000Z</published>
     <updated>2021-01-20T10:56:39.759Z</updated>
     
@@ -66,14 +66,14 @@
     
     
     
-      <category term="Office" scheme="https://qikaile.tk/tags/Office/"/>
+      <category term="Office" scheme="https://qikaile.gitee.io/tags/Office/"/>
     
   </entry>
   
   <entry>
     <title>Abaqus 有限元教程(气动网弯曲执行器)</title>
-    <link href="https://qikaile.tk/FEM-analysis-of-PneuNet-actuator.html"/>
-    <id>https://qikaile.tk/FEM-analysis-of-PneuNet-actuator.html</id>
+    <link href="https://qikaile.gitee.io/FEM-analysis-of-PneuNet-actuator.html"/>
+    <id>https://qikaile.gitee.io/FEM-analysis-of-PneuNet-actuator.html</id>
     <published>2020-12-14T11:51:55.000Z</published>
     <updated>2021-01-20T11:14:02.258Z</updated>
     
@@ -90,17 +90,17 @@
     </summary>
     
     
-      <category term="有限元分析" scheme="https://qikaile.tk/categories/%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90/"/>
+      <category term="有限元分析" scheme="https://qikaile.gitee.io/categories/%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90/"/>
     
     
-      <category term="有限元分析" scheme="https://qikaile.tk/tags/%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90/"/>
+      <category term="有限元分析" scheme="https://qikaile.gitee.io/tags/%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90/"/>
     
   </entry>
   
   <entry>
     <title>Solidworks学习笔记</title>
-    <link href="https://qikaile.tk/solidworks-note.html"/>
-    <id>https://qikaile.tk/solidworks-note.html</id>
+    <link href="https://qikaile.gitee.io/solidworks-note.html"/>
+    <id>https://qikaile.gitee.io/solidworks-note.html</id>
     <published>2020-11-19T02:40:26.000Z</published>
     <updated>2021-01-20T11:15:58.894Z</updated>
     
@@ -112,14 +112,14 @@
     
     
     
-      <category term="Solidworks" scheme="https://qikaile.tk/tags/Solidworks/"/>
+      <category term="Solidworks" scheme="https://qikaile.gitee.io/tags/Solidworks/"/>
     
   </entry>
   
   <entry>
     <title>听力必考21大场景</title>
-    <link href="https://qikaile.tk/Scenes-of-Listening.html"/>
-    <id>https://qikaile.tk/Scenes-of-Listening.html</id>
+    <link href="https://qikaile.gitee.io/Scenes-of-Listening.html"/>
+    <id>https://qikaile.gitee.io/Scenes-of-Listening.html</id>
     <published>2020-11-19T02:32:52.000Z</published>
     <updated>2021-01-20T10:53:15.294Z</updated>
     
@@ -131,14 +131,14 @@
     
     
     
-      <category term="English" scheme="https://qikaile.tk/tags/English/"/>
+      <category term="English" scheme="https://qikaile.gitee.io/tags/English/"/>
     
   </entry>
   
   <entry>
     <title>免费申请 Office365 E5 开发者订阅</title>
-    <link href="https://qikaile.tk/Office365-E5.html"/>
-    <id>https://qikaile.tk/Office365-E5.html</id>
+    <link href="https://qikaile.gitee.io/Office365-E5.html"/>
+    <id>https://qikaile.gitee.io/Office365-E5.html</id>
     <published>2020-11-19T02:28:03.000Z</published>
     <updated>2021-01-20T10:56:19.540Z</updated>
     
@@ -156,14 +156,14 @@
     
     
     
-      <category term="Office" scheme="https://qikaile.tk/tags/Office/"/>
+      <category term="Office" scheme="https://qikaile.gitee.io/tags/Office/"/>
     
   </entry>
   
   <entry>
     <title>免费开源剪辑软件Shotcut推荐和使用教程</title>
-    <link href="https://qikaile.tk/Shotcut.html"/>
-    <id>https://qikaile.tk/Shotcut.html</id>
+    <link href="https://qikaile.gitee.io/Shotcut.html"/>
+    <id>https://qikaile.gitee.io/Shotcut.html</id>
     <published>2020-11-19T01:09:28.000Z</published>
     <updated>2021-01-20T11:16:58.454Z</updated>
     
@@ -185,8 +185,8 @@
   
   <entry>
     <title>Python绘图</title>
-    <link href="https://qikaile.tk/Python-matplotlib-Seaborn.html"/>
-    <id>https://qikaile.tk/Python-matplotlib-Seaborn.html</id>
+    <link href="https://qikaile.gitee.io/Python-matplotlib-Seaborn.html"/>
+    <id>https://qikaile.gitee.io/Python-matplotlib-Seaborn.html</id>
     <published>2020-11-19T00:55:33.000Z</published>
     <updated>2021-01-20T11:19:00.598Z</updated>
     
@@ -204,14 +204,14 @@
     
     
     
-      <category term="Python" scheme="https://qikaile.tk/tags/Python/"/>
+      <category term="Python" scheme="https://qikaile.gitee.io/tags/Python/"/>
     
   </entry>
   
   <entry>
     <title>markdown笔记</title>
-    <link href="https://qikaile.tk/markdown%E7%AC%94%E8%AE%B0.html"/>
-    <id>https://qikaile.tk/markdown%E7%AC%94%E8%AE%B0.html</id>
+    <link href="https://qikaile.gitee.io/markdown%E7%AC%94%E8%AE%B0.html"/>
+    <id>https://qikaile.gitee.io/markdown%E7%AC%94%E8%AE%B0.html</id>
     <published>2020-06-14T16:00:00.000Z</published>
     <updated>2020-06-15T06:22:19.535Z</updated>
     
@@ -233,8 +233,8 @@
   
   <entry>
     <title>PS功能精通课</title>
-    <link href="https://qikaile.tk/PS%E5%8A%9F%E8%83%BD%E7%B2%BE%E9%80%9A%E8%AF%BE.html"/>
-    <id>https://qikaile.tk/PS%E5%8A%9F%E8%83%BD%E7%B2%BE%E9%80%9A%E8%AF%BE.html</id>
+    <link href="https://qikaile.gitee.io/PS%E5%8A%9F%E8%83%BD%E7%B2%BE%E9%80%9A%E8%AF%BE.html"/>
+    <id>https://qikaile.gitee.io/PS%E5%8A%9F%E8%83%BD%E7%B2%BE%E9%80%9A%E8%AF%BE.html</id>
     <published>2020-03-27T16:00:00.000Z</published>
     <updated>2020-04-04T08:34:26.719Z</updated>
     
@@ -251,17 +251,17 @@
     </summary>
     
     
-      <category term="photoshop" scheme="https://qikaile.tk/categories/photoshop/"/>
+      <category term="photoshop" scheme="https://qikaile.gitee.io/categories/photoshop/"/>
     
     
-      <category term="photoshop" scheme="https://qikaile.tk/tags/photoshop/"/>
+      <category term="photoshop" scheme="https://qikaile.gitee.io/tags/photoshop/"/>
     
   </entry>
   
   <entry>
     <title>Pandas中文手册</title>
-    <link href="https://qikaile.tk/pandas%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.html"/>
-    <id>https://qikaile.tk/pandas%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.html</id>
+    <link href="https://qikaile.gitee.io/pandas%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.html"/>
+    <id>https://qikaile.gitee.io/pandas%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.html</id>
     <published>2020-03-27T16:00:00.000Z</published>
     <updated>2020-04-15T04:13:32.294Z</updated>
     
@@ -278,17 +278,17 @@
     </summary>
     
     
-      <category term="Pandas" scheme="https://qikaile.tk/categories/Pandas/"/>
+      <category term="Pandas" scheme="https://qikaile.gitee.io/categories/Pandas/"/>
     
     
-      <category term="pandas" scheme="https://qikaile.tk/tags/pandas/"/>
+      <category term="pandas" scheme="https://qikaile.gitee.io/tags/pandas/"/>
     
   </entry>
   
   <entry>
     <title>十分钟搞定 pandas</title>
-    <link href="https://qikaile.tk/%E5%8D%81%E5%88%86%E9%92%9F%E6%90%9E%E5%AE%9Apandas.html"/>
-    <id>https://qikaile.tk/%E5%8D%81%E5%88%86%E9%92%9F%E6%90%9E%E5%AE%9Apandas.html</id>
+    <link href="https://qikaile.gitee.io/%E5%8D%81%E5%88%86%E9%92%9F%E6%90%9E%E5%AE%9Apandas.html"/>
+    <id>https://qikaile.gitee.io/%E5%8D%81%E5%88%86%E9%92%9F%E6%90%9E%E5%AE%9Apandas.html</id>
     <published>2020-03-27T16:00:00.000Z</published>
     <updated>2020-04-04T08:35:09.041Z</updated>
     
@@ -305,17 +305,17 @@
     </summary>
     
     
-      <category term="pandas" scheme="https://qikaile.tk/categories/pandas/"/>
+      <category term="pandas" scheme="https://qikaile.gitee.io/categories/pandas/"/>
     
     
-      <category term="pandas" scheme="https://qikaile.tk/tags/pandas/"/>
+      <category term="pandas" scheme="https://qikaile.gitee.io/tags/pandas/"/>
     
   </entry>
   
   <entry>
     <title>机器学习课程</title>
-    <link href="https://qikaile.tk/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B.html"/>
-    <id>https://qikaile.tk/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B.html</id>
+    <link href="https://qikaile.gitee.io/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B.html"/>
+    <id>https://qikaile.gitee.io/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E8%AF%BE%E7%A8%8B.html</id>
     <published>2020-03-27T16:00:00.000Z</published>
     <updated>2021-01-20T10:56:02.825Z</updated>
     
@@ -332,17 +332,17 @@
     </summary>
     
     
-      <category term="机器学习" scheme="https://qikaile.tk/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+      <category term="机器学习" scheme="https://qikaile.gitee.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
     
-      <category term="机器学习" scheme="https://qikaile.tk/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+      <category term="机器学习" scheme="https://qikaile.gitee.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
   <entry>
     <title>Hexo搭建个人博客系列：主题美化篇</title>
-    <link href="https://qikaile.tk/hexo-theme-beautify.html"/>
-    <id>https://qikaile.tk/hexo-theme-beautify.html</id>
+    <link href="https://qikaile.gitee.io/hexo-theme-beautify.html"/>
+    <id>https://qikaile.gitee.io/hexo-theme-beautify.html</id>
     <published>2020-03-18T16:00:00.000Z</published>
     <updated>2021-01-20T08:14:59.440Z</updated>
     
@@ -353,19 +353,19 @@
     </summary>
     
     
-      <category term="技术" scheme="https://qikaile.tk/categories/%E6%8A%80%E6%9C%AF/"/>
+      <category term="技术" scheme="https://qikaile.gitee.io/categories/%E6%8A%80%E6%9C%AF/"/>
     
-      <category term="博客" scheme="https://qikaile.tk/categories/%E6%8A%80%E6%9C%AF/%E5%8D%9A%E5%AE%A2/"/>
+      <category term="博客" scheme="https://qikaile.gitee.io/categories/%E6%8A%80%E6%9C%AF/%E5%8D%9A%E5%AE%A2/"/>
     
     
-      <category term="Hexo" scheme="https://qikaile.tk/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://qikaile.gitee.io/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>hello-world</title>
-    <link href="https://qikaile.tk/hello-world.html"/>
-    <id>https://qikaile.tk/hello-world.html</id>
+    <link href="https://qikaile.gitee.io/hello-world.html"/>
+    <id>https://qikaile.gitee.io/hello-world.html</id>
     <published>2020-03-14T08:19:42.000Z</published>
     <updated>2021-01-20T08:21:37.488Z</updated>
     
