@@ -6,5 +6,5 @@ Allow: /archives/
 Allow: /categories/
 Allow: /tags/
 
-Sitemap: https://qikaile.gitee.io/volantis/sitemap.xml
-Sitemap: https://qikaile.gitee.io/volantis/baidusitemap.xml
+Sitemap: https://qikaile.tk/volantis/sitemap.xml
+Sitemap: https://qikaile.tk/volantis/baidusitemap.xml

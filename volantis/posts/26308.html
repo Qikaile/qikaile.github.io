@@ -1018,7 +1018,7 @@
         <div class="webinfo-item">
           <div>最后活动时间：</div>
           
-            <div id="last-update" style="display: none;">Wed Jan 20 2021 20:09:27 GMT+0800 (GMT+08:00)</div>
+            <div id="last-update" style="display: none;">Wed Jan 20 2021 19:40:00 GMT+0800 (GMT+08:00)</div>
             <div id="last-update-show">2021-01-20 日</div>
           
         </div>
@@ -1189,7 +1189,7 @@
 <h3 id="第1步，提权，需要用管理员权限打开Windowns-Powershell-，然后输入下面的命令授权："><a href="#第1步，提权，需要用管理员权限打开Windowns-Powershell-，然后输入下面的命令授权：" class="headerlink" title="第1步，提权，需要用管理员权限打开Windowns Powershell ，然后输入下面的命令授权："></a>第1步，提权，需要用管理员权限打开Windowns Powershell ，然后输入下面的命令授权：</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Set-ExecutionPolicy RemoteSigned</span><br></pre></td></tr></table></figure>
 <p>在弹出的对话框中，输入<font color=red>Y</font></p>
 <h4 id="第2步，连接服务器，需要在上一步的同一窗口下，同时需要管理员权限，不可用本地权限，否则会出现写入权限错误："><a href="#第2步，连接服务器，需要在上一步的同一窗口下，同时需要管理员权限，不可用本地权限，否则会出现写入权限错误：" class="headerlink" title="第2步，连接服务器，需要在上一步的同一窗口下，同时需要管理员权限，不可用本地权限，否则会出现写入权限错误："></a>第2步，连接服务器，需要在上一步的同一窗口下，同时需要管理员权限，不可用本地权限，否则会出现写入权限错误：</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$UserCredential &#x3D; Get-Credential</span><br></pre></td></tr></table></figure>
-<p>在弹出的对话框中，输入自己的邮箱管理员(例：<a href="mailto:&#x61;&#x64;&#x6d;&#x69;&#110;&#x40;&#113;&#x69;&#x6b;&#x61;&#105;&#108;&#101;&#x2e;&#x74;&#107;">&#x61;&#x64;&#x6d;&#x69;&#110;&#x40;&#113;&#x69;&#x6b;&#x61;&#105;&#108;&#101;&#x2e;&#x74;&#107;</a>)帐户信息。</p>
+<p>在弹出的对话框中，输入自己的邮箱管理员(例：<a href="mailto:&#97;&#x64;&#109;&#105;&#x6e;&#64;&#113;&#105;&#x6b;&#x61;&#105;&#x6c;&#x65;&#46;&#116;&#107;">&#97;&#x64;&#109;&#105;&#x6e;&#64;&#113;&#105;&#x6b;&#x61;&#105;&#x6c;&#x65;&#46;&#116;&#107;</a>)帐户信息。</p>
 <h4 id="第3步，建立新会话（session）："><a href="#第3步，建立新会话（session）：" class="headerlink" title="第3步，建立新会话（session）："></a>第3步，建立新会话（session）：</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$Session &#x3D; New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https:&#x2F;&#x2F;outlook.office365.com&#x2F;powershell-liveid&#x2F; -Credential $UserCredential -Authentication Basic -AllowRedirection</span><br></pre></td></tr></table></figure>
 
 <h4 id="第4步，进入新建的会话："><a href="#第4步，进入新建的会话：" class="headerlink" title="第4步，进入新建的会话："></a>第4步，进入新建的会话：</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Import-PSSession $Session</span><br></pre></td></tr></table></figure>
@@ -1226,7 +1226,7 @@
         
         
         
-        <p>🔗 本文永久链接是：<a href=https://qikaile.gitee.io/volantis/posts/26308.html>https://qikaile.gitee.io/volantis/posts/26308.html</a></p>
+        <p>🔗 本文永久链接是：<a href=https://qikaile.tk/volantis/posts/26308.html>https://qikaile.tk/volantis/posts/26308.html</a></p>
         
         
       </blockquote>
@@ -1265,7 +1265,7 @@
       
         <a class="-mob-share-qq" title="" rel="external nofollow noopener noreferrer noopener"
           
-          target="_blank" href="http://connect.qq.com/widget/shareqq/index.html?url=https://qikaile.gitee.io/volantis/posts/26308.html&title=Office365邮局开启SPF、DKIM与DMARC - 天镜云生&summary="
+          target="_blank" href="http://connect.qq.com/widget/shareqq/index.html?url=https://qikaile.tk/volantis/posts/26308.html&title=Office365邮局开启SPF、DKIM与DMARC - 天镜云生&summary="
           
           >
           
@@ -1277,7 +1277,7 @@
       
         <a class="-mob-share-qzone" title="" rel="external nofollow noopener noreferrer noopener"
           
-          target="_blank" href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https://qikaile.gitee.io/volantis/posts/26308.html&title=Office365邮局开启SPF、DKIM与DMARC - 天镜云生&summary="
+          target="_blank" href="https://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url=https://qikaile.tk/volantis/posts/26308.html&title=Office365邮局开启SPF、DKIM与DMARC - 天镜云生&summary="
           
           >
           
@@ -1289,7 +1289,7 @@
       
         <a class="-mob-share-weibo" title="" rel="external nofollow noopener noreferrer noopener"
           
-          target="_blank" href="http://service.weibo.com/share/share.php?url=https://qikaile.gitee.io/volantis/posts/26308.html&title=Office365邮局开启SPF、DKIM与DMARC - 天镜云生&summary="
+          target="_blank" href="http://service.weibo.com/share/share.php?url=https://qikaile.tk/volantis/posts/26308.html&title=Office365邮局开启SPF、DKIM与DMARC - 天镜云生&summary="
           
           >
           
@@ -2021,7 +2021,7 @@ if(supportCss3('mix-blend-mode')){
       // 请求 PV 并自增
       var pvCtn = document.querySelector('#lc-sv');
       if (pvCtn || enableIncr) {
-        var pvGetter = this.getRecord(Counter, 'https://qikaile.gitee.io/volantis' + '/#lc-sv', 'Visits').then((record) => {
+        var pvGetter = this.getRecord(Counter, 'https://qikaile.tk/volantis' + '/#lc-sv', 'Visits').then((record) => {
           incrArr.push(this.buildIncrement(record.objectId))
           var eles = document.querySelectorAll('#lc-sv #number');
           if (eles.length > 0) {
@@ -2039,7 +2039,7 @@ if(supportCss3('mix-blend-mode')){
       // 请求 UV 并自增
       var uvCtn = document.querySelector('#lc-uv');
       if (uvCtn || enableIncr) {
-        var uvGetter = this.getRecord(Counter, 'https://qikaile.gitee.io/volantis' + '/#lc-uv', 'Visitors').then((record) => {
+        var uvGetter = this.getRecord(Counter, 'https://qikaile.tk/volantis' + '/#lc-uv', 'Visitors').then((record) => {
           var vuv = this.validUV();
           vuv && incrArr.push(this.buildIncrement(record.objectId))
           var eles = document.querySelectorAll('#lc-uv #number');
@@ -2061,7 +2061,7 @@ if(supportCss3('mix-blend-mode')){
         for (i = 0; i < allPV.length; i++) {
           let pv = allPV[i];
           let title = pv.getAttribute('data-title');
-          var url = 'https://qikaile.gitee.io/volantis' + pv.getAttribute('data-path');
+          var url = 'https://qikaile.tk/volantis' + pv.getAttribute('data-path');
           if (url) {
             var viewGetter = this.getRecord(Counter, url, title).then((record) => {
               // 是当前页面就自增
