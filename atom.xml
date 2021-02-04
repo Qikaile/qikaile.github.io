@@ -232,6 +232,33 @@
   </entry>
   
   <entry>
+    <title>机器学习课程</title>
+    <link href="https://qikaile.tk/Machine-learning-note.html"/>
+    <id>https://qikaile.tk/Machine-learning-note.html</id>
+    <published>2020-03-27T16:00:00.000Z</published>
+    <updated>2021-01-20T10:56:02.825Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="机器学习" scheme="https://qikaile.tk/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="机器学习" scheme="https://qikaile.tk/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>十分钟搞定 pandas</title>
     <link href="https://qikaile.tk/10-Minutes-to-pandas.html"/>
     <id>https://qikaile.tk/10-Minutes-to-pandas.html</id>
@@ -309,33 +336,6 @@
     
     
       <category term="pandas" scheme="https://qikaile.tk/tags/pandas/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>机器学习课程</title>
-    <link href="https://qikaile.tk/Machine-learning-note.html"/>
-    <id>https://qikaile.tk/Machine-learning-note.html</id>
-    <published>2020-03-27T16:00:00.000Z</published>
-    <updated>2021-01-20T10:56:02.825Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="机器学习" scheme="https://qikaile.tk/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
-    
-    
-      <category term="机器学习" scheme="https://qikaile.tk/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
     
   </entry>
   
