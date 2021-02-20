@@ -18,8 +18,8 @@
   
   <entry>
     <title>使用 CloudFlare 加速你的网站</title>
-    <link href="https://qikaile.tk/posts/3b592df3.html"/>
-    <id>https://qikaile.tk/posts/3b592df3.html</id>
+    <link href="https://qikaile.tk/CloudFlare-optional-ip.html"/>
+    <id>https://qikaile.tk/CloudFlare-optional-ip.html</id>
     <published>2021-02-19T13:40:09.000Z</published>
     <updated>2021-02-19T13:44:09.457Z</updated>
     
@@ -45,8 +45,8 @@
   
   <entry>
     <title>OneManager+CloudFlare Workers部署教程</title>
-    <link href="https://qikaile.tk/posts/adc6a676.html"/>
-    <id>https://qikaile.tk/posts/adc6a676.html</id>
+    <link href="https://qikaile.tk/OneManager-CloudFlare-Workers.html"/>
+    <id>https://qikaile.tk/OneManager-CloudFlare-Workers.html</id>
     <published>2021-02-09T12:57:38.000Z</published>
     <updated>2021-02-09T13:05:10.119Z</updated>
     
@@ -70,8 +70,8 @@
   
   <entry>
     <title>安装Cloudreve 新版V3(go版本)</title>
-    <link href="https://qikaile.tk/posts/e23067bd.html"/>
-    <id>https://qikaile.tk/posts/e23067bd.html</id>
+    <link href="https://qikaile.tk/Cloudreve.html"/>
+    <id>https://qikaile.tk/Cloudreve.html</id>
     <published>2021-02-09T06:18:28.000Z</published>
     <updated>2021-02-09T06:33:02.186Z</updated>
     
@@ -95,8 +95,8 @@
   
   <entry>
     <title>Vercel反向代理做CDN，免费给网站加速隐藏源站，可绑定域名</title>
-    <link href="https://qikaile.tk/posts/7a51804d.html"/>
-    <id>https://qikaile.tk/posts/7a51804d.html</id>
+    <link href="https://qikaile.tk/vercel-cdn-website.html"/>
+    <id>https://qikaile.tk/vercel-cdn-website.html</id>
     <published>2021-02-05T08:19:22.000Z</published>
     <updated>2021-02-09T06:56:56.381Z</updated>
     
@@ -122,8 +122,8 @@
   
   <entry>
     <title>Hexo中使用emoji表情</title>
-    <link href="https://qikaile.tk/posts/d45348c5.html"/>
-    <id>https://qikaile.tk/posts/d45348c5.html</id>
+    <link href="https://qikaile.tk/hexo-emoji.html"/>
+    <id>https://qikaile.tk/hexo-emoji.html</id>
     <published>2021-01-20T03:13:23.000Z</published>
     <updated>2021-01-20T10:49:51.436Z</updated>
     
@@ -151,8 +151,8 @@
   
   <entry>
     <title>Office365邮局开启SPF、DKIM与DMARC</title>
-    <link href="https://qikaile.tk/posts/26308.html"/>
-    <id>https://qikaile.tk/posts/26308.html</id>
+    <link href="https://qikaile.tk/Office365-Post-Office-opens-SPF-DKIM-DMARC.html"/>
+    <id>https://qikaile.tk/Office365-Post-Office-opens-SPF-DKIM-DMARC.html</id>
     <published>2021-01-20T03:00:12.000Z</published>
     <updated>2021-01-20T10:56:39.759Z</updated>
     
@@ -176,8 +176,8 @@
   
   <entry>
     <title>Abaqus 有限元教程(气动网弯曲执行器)</title>
-    <link href="https://qikaile.tk/posts/28586.html"/>
-    <id>https://qikaile.tk/posts/28586.html</id>
+    <link href="https://qikaile.tk/FEM-analysis-of-PneuNet-actuator.html"/>
+    <id>https://qikaile.tk/FEM-analysis-of-PneuNet-actuator.html</id>
     <published>2020-12-14T11:51:55.000Z</published>
     <updated>2021-01-20T11:14:02.258Z</updated>
     
@@ -203,8 +203,8 @@
   
   <entry>
     <title>Solidworks学习笔记</title>
-    <link href="https://qikaile.tk/posts/26833.html"/>
-    <id>https://qikaile.tk/posts/26833.html</id>
+    <link href="https://qikaile.tk/solidworks-note.html"/>
+    <id>https://qikaile.tk/solidworks-note.html</id>
     <published>2020-11-19T02:40:26.000Z</published>
     <updated>2021-01-20T11:15:58.894Z</updated>
     
@@ -222,8 +222,8 @@
   
   <entry>
     <title>听力必考21大场景</title>
-    <link href="https://qikaile.tk/posts/44468.html"/>
-    <id>https://qikaile.tk/posts/44468.html</id>
+    <link href="https://qikaile.tk/Scenes-of-Listening.html"/>
+    <id>https://qikaile.tk/Scenes-of-Listening.html</id>
     <published>2020-11-19T02:32:52.000Z</published>
     <updated>2021-01-20T10:53:15.294Z</updated>
     
@@ -241,8 +241,8 @@
   
   <entry>
     <title>免费申请 Office365 E5 开发者订阅</title>
-    <link href="https://qikaile.tk/posts/61191.html"/>
-    <id>https://qikaile.tk/posts/61191.html</id>
+    <link href="https://qikaile.tk/Office365-E5.html"/>
+    <id>https://qikaile.tk/Office365-E5.html</id>
     <published>2020-11-19T02:28:03.000Z</published>
     <updated>2021-01-20T10:56:19.540Z</updated>
     
@@ -266,8 +266,8 @@
   
   <entry>
     <title>免费开源剪辑软件Shotcut推荐和使用教程</title>
-    <link href="https://qikaile.tk/posts/48498.html"/>
-    <id>https://qikaile.tk/posts/48498.html</id>
+    <link href="https://qikaile.tk/Shotcut.html"/>
+    <id>https://qikaile.tk/Shotcut.html</id>
     <published>2020-11-19T01:09:28.000Z</published>
     <updated>2021-01-20T11:16:58.454Z</updated>
     
@@ -289,8 +289,8 @@
   
   <entry>
     <title>Python绘图</title>
-    <link href="https://qikaile.tk/posts/16997.html"/>
-    <id>https://qikaile.tk/posts/16997.html</id>
+    <link href="https://qikaile.tk/Python-matplotlib-Seaborn.html"/>
+    <id>https://qikaile.tk/Python-matplotlib-Seaborn.html</id>
     <published>2020-11-19T00:55:33.000Z</published>
     <updated>2021-01-20T11:19:00.598Z</updated>
     
@@ -314,8 +314,8 @@
   
   <entry>
     <title>markdown笔记</title>
-    <link href="https://qikaile.tk/posts/7417429a.html"/>
-    <id>https://qikaile.tk/posts/7417429a.html</id>
+    <link href="https://qikaile.tk/markdown-note.html"/>
+    <id>https://qikaile.tk/markdown-note.html</id>
     <published>2020-06-14T16:00:00.000Z</published>
     <updated>2020-06-15T06:22:19.535Z</updated>
     
@@ -337,8 +337,8 @@
   
   <entry>
     <title>十分钟搞定 pandas</title>
-    <link href="https://qikaile.tk/posts/20b03c28d.html"/>
-    <id>https://qikaile.tk/posts/20b03c28d.html</id>
+    <link href="https://qikaile.tk/10-Minutes-to-pandas.html"/>
+    <id>https://qikaile.tk/10-Minutes-to-pandas.html</id>
     <published>2020-03-27T16:00:00.000Z</published>
     <updated>2020-04-04T08:35:09.041Z</updated>
     
@@ -364,8 +364,8 @@
   
   <entry>
     <title>PS功能精通课</title>
-    <link href="https://qikaile.tk/posts/20b03a28d.html"/>
-    <id>https://qikaile.tk/posts/20b03a28d.html</id>
+    <link href="https://qikaile.tk/PS-note.html"/>
+    <id>https://qikaile.tk/PS-note.html</id>
     <published>2020-03-27T16:00:00.000Z</published>
     <updated>2020-04-04T08:34:26.719Z</updated>
     
@@ -391,8 +391,8 @@
   
   <entry>
     <title>Pandas中文手册</title>
-    <link href="https://qikaile.tk/posts/20b03m28d.html"/>
-    <id>https://qikaile.tk/posts/20b03m28d.html</id>
+    <link href="https://qikaile.tk/pandas-manual.html"/>
+    <id>https://qikaile.tk/pandas-manual.html</id>
     <published>2020-03-27T16:00:00.000Z</published>
     <updated>2020-04-15T04:13:32.294Z</updated>
     
@@ -418,8 +418,8 @@
   
   <entry>
     <title>机器学习课程</title>
-    <link href="https://qikaile.tk/posts/20b03b19d.html"/>
-    <id>https://qikaile.tk/posts/20b03b19d.html</id>
+    <link href="https://qikaile.tk/Machine-learning-note.html"/>
+    <id>https://qikaile.tk/Machine-learning-note.html</id>
     <published>2020-03-27T16:00:00.000Z</published>
     <updated>2021-01-20T10:56:02.825Z</updated>
     
@@ -445,8 +445,8 @@
   
   <entry>
     <title>Hexo搭建个人博客系列：主题美化篇</title>
-    <link href="https://qikaile.tk/posts/20b03m19d.html"/>
-    <id>https://qikaile.tk/posts/20b03m19d.html</id>
+    <link href="https://qikaile.tk/hexo-theme-beautify.html"/>
+    <id>https://qikaile.tk/hexo-theme-beautify.html</id>
     <published>2020-03-18T16:00:00.000Z</published>
     <updated>2021-01-20T08:14:59.440Z</updated>
     
@@ -468,8 +468,8 @@
   
   <entry>
     <title>hello-world</title>
-    <link href="https://qikaile.tk/posts/b1d4025b.html"/>
-    <id>https://qikaile.tk/posts/b1d4025b.html</id>
+    <link href="https://qikaile.tk/hello-world.html"/>
+    <id>https://qikaile.tk/hello-world.html</id>
     <published>2020-03-14T08:19:42.000Z</published>
     <updated>2021-01-20T08:21:37.488Z</updated>
     
