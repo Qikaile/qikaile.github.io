@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://qikaile.tk/hexo-next-Tag-Plugin.html</loc>
+    <lastmod>2021-02-24</lastmod>
+  </url>  <url>
+    <loc>https://qikaile.tk/hello-world.html</loc>
+    <lastmod>2021-02-24</lastmod>
+  </url>  <url>
+    <loc>https://qikaile.tk/github-fork-update.html</loc>
+    <lastmod>2021-02-24</lastmod>
+  </url>  <url>
+    <loc>https://qikaile.tk/uptime-status.html</loc>
+    <lastmod>2021-02-24</lastmod>
+  </url>  <url>
+    <loc>https://qikaile.tk/github-picture-cdn.html</loc>
+    <lastmod>2021-02-24</lastmod>
+  </url>  <url>
     <loc>https://qikaile.tk/CloudFlare-optional-ip.html</loc>
     <lastmod>2021-02-19</lastmod>
   </url>  <url>
@@ -38,9 +53,6 @@
     <lastmod>2021-01-20</lastmod>
   </url>  <url>
     <loc>https://qikaile.tk/hexo-emoji.html</loc>
-    <lastmod>2021-01-20</lastmod>
-  </url>  <url>
-    <loc>https://qikaile.tk/hello-world.html</loc>
     <lastmod>2021-01-20</lastmod>
   </url>  <url>
     <loc>https://qikaile.tk/hexo-theme-beautify.html</loc>
