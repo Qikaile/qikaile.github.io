@@ -1034,8 +1034,8 @@
         <div class="webinfo-item">
           <div>最后活动时间：</div>
           
-            <div id="last-update" style="display: none;">Sat Feb 20 2021 16:14:18 GMT+0800 (GMT+08:00)</div>
-            <div id="last-update-show">2021-02-20 日</div>
+            <div id="last-update" style="display: none;">Tue Mar 02 2021 16:54:47 GMT+0800 (GMT+08:00)</div>
+            <div id="last-update-show">2021-03-02 日</div>
           
         </div>
         
@@ -1085,7 +1085,7 @@
           try {
             document.getElementById('last-update-show').innerHTML = timeago(new Date(lastUpDate));
           } catch (error) {
-            document.getElementById('last-update-show').innerHTML = '2021-02-20 日';
+            document.getElementById('last-update-show').innerHTML = '2021-03-02 日';
           }
         </script>
         
@@ -1132,7 +1132,7 @@
       <a class='headimg-a' href="/volantis/posts/3b592df3.html">
         
           
-            <div class='headimg lazyload' data-bg='https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper-minimalist/2020/019.jpg'></div>
+            <div class='headimg lazyload' data-bg='https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper-minimalist/2020/020.jpg'></div>
           
         
       </a>
@@ -1192,7 +1192,7 @@ CloudFlare 的节点之间...
       <a class='headimg-a' href="/volantis/posts/adc6a676.html">
         
           
-            <div class='headimg lazyload' data-bg='https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper-minimalist/2020/018.jpg'></div>
+            <div class='headimg lazyload' data-bg='https://cdn.jsdelivr.net/gh/volantis-x/cdn-wallpaper-minimalist/2020/019.jpg'></div>
           
         
       </a>
@@ -1579,18 +1579,25 @@ DKIM关于如何开启 Exchange Online 邮件系统的 DKIM 功能，微软并�
 
 
 
-  <script>
+
+
+
+<script>
   function loadIssuesJS() {
     if ($(".md").find(".issues-api").length == 0) return;
-    setTimeout(function() {
-      loadScript('/js/issues.js');
-    }, 1);
+	
+	  loadScript('https://cdn.jsdelivr.net/gh/qikaile/cdn/js/issues.js');
+	
   };
   $(function () {
     loadIssuesJS();
   });
+  volantis.pjax.push(()=>{
+	if (typeof IssuesAPI == "undefined") {
+	  loadIssuesJS();
+	}
+  },"IssuesJS")
 </script>
-
 
 
 <!-- optional -->
