@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://qikaile.tk/hexo-emoji.html</loc>
-    <lastmod>2021-03-03</lastmod>
-  </url>  <url>
-    <loc>https://qikaile.tk/hexo-next-Tag-Plugin.html</loc>
-    <lastmod>2021-03-03</lastmod>
-  </url>  <url>
     <loc>https://qikaile.tk/hexo-theme-beautify.html</loc>
     <lastmod>2021-03-03</lastmod>
   </url>  <url>
@@ -65,6 +59,12 @@
     <lastmod>2021-03-03</lastmod>
   </url>  <url>
     <loc>https://qikaile.tk/hello-world.html</loc>
+    <lastmod>2021-03-03</lastmod>
+  </url>  <url>
+    <loc>https://qikaile.tk/hexo-emoji.html</loc>
+    <lastmod>2021-03-03</lastmod>
+  </url>  <url>
+    <loc>https://qikaile.tk/hexo-next-Tag-Plugin.html</loc>
     <lastmod>2021-03-03</lastmod>
   </url>  <url>
     <loc>https://qikaile.tk/Machine-learning-note.html</loc>
