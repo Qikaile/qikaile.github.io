@@ -1275,7 +1275,7 @@ div.note::before {
   font-weight: 600;
   line-height: 24px;
   vertical-align: middle;
-  font-family: 'Font Awesome 5 Duotone';
+  font-family: 'Font Awesome 5 Pro';
 }
 div.note::before {
   color: #44d7b6;
@@ -2408,7 +2408,7 @@ pre {
   z-index: 1001;
 }
 .darkmode-toggle:before {
-  font-family: 'Font Awesome 5 Duotone';
+  font-family: 'Font Awesome 5 Pro';
   font-weight: bold;
   content: '\f186';
   color: #fff;

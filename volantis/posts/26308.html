@@ -835,19 +835,19 @@
           <nav class="site-state">
             <div class="site-state-item site-state-posts">
               <a href="/volantis/archives/">
-                <span class="site-state-item-count">19</span>
+                <span class="site-state-item-count">23</span>
                 <span class="site-state-item-name">日志</span>
               </a>
             </div>
             <div class="site-state-item site-state-categories">
               <a href="/volantis/categories/">
-                <span class="site-state-item-count">7</span>
+                <span class="site-state-item-count">8</span>
                 <span class="site-state-item-name">分类</span>
               </a>
             </div>
             <div class="site-state-item site-state-tags">
               <a href="/volantis/tags/">
-                <span class="site-state-item-count">15</span>
+                <span class="site-state-item-count">18</span>
                 <span class="site-state-item-name">标签</span>
               </a>
             </div>
@@ -925,6 +925,11 @@
             ><div class='name'>cloudflare</div><div class='badge'>(1)</div></a></li>
         
           <li><a class="flat-box"
+            title="/volantis/categories/github/" href="/volantis/categories/github/"
+            id="volantiscategoriesgithub"
+            ><div class='name'>github</div><div class='badge'>(1)</div></a></li>
+        
+          <li><a class="flat-box"
             title="/volantis/categories/photoshop/" href="/volantis/categories/photoshop/"
             id="volantiscategoriesphotoshop"
             ><div class='name'>photoshop</div><div class='badge'>(1)</div></a></li>
@@ -988,7 +993,7 @@
       
         <div class="webinfo-item">
           <div>文章数目：</div>
-          <div>19 篇</div>
+          <div>23 篇</div>
         </div>
       
 
@@ -1010,7 +1015,7 @@
       
         <div class="webinfo-item">
           <div>本站总字数：</div>
-          <div>64.6k 字</div>
+          <div>67.7k 字</div>
         </div>
       
 
@@ -1032,8 +1037,8 @@
         <div class="webinfo-item">
           <div>最后活动时间：</div>
           
-            <div id="last-update" style="display: none;">Tue Mar 02 2021 20:39:54 GMT+0800 (GMT+08:00)</div>
-            <div id="last-update-show">2021-03-02 日</div>
+            <div id="last-update" style="display: none;">Sat Mar 13 2021 10:48:19 GMT+0800 (GMT+08:00)</div>
+            <div id="last-update-show">2021-03-13 日</div>
           
         </div>
         
@@ -1083,7 +1088,7 @@
           try {
             document.getElementById('last-update-show').innerHTML = timeago(new Date(lastUpDate));
           } catch (error) {
-            document.getElementById('last-update-show').innerHTML = '2021-03-02 日';
+            document.getElementById('last-update-show').innerHTML = '2021-03-13 日';
           }
         </script>
         
@@ -1203,7 +1208,7 @@
 <h3 id="第1步，提权，需要用管理员权限打开Windowns-Powershell-，然后输入下面的命令授权："><a href="#第1步，提权，需要用管理员权限打开Windowns-Powershell-，然后输入下面的命令授权：" class="headerlink" title="第1步，提权，需要用管理员权限打开Windowns Powershell ，然后输入下面的命令授权："></a>第1步，提权，需要用管理员权限打开Windowns Powershell ，然后输入下面的命令授权：</h3><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Set-ExecutionPolicy RemoteSigned</span><br></pre></td></tr></table></figure>
 <p>在弹出的对话框中，输入<font color=red>Y</font></p>
 <h4 id="第2步，连接服务器，需要在上一步的同一窗口下，同时需要管理员权限，不可用本地权限，否则会出现写入权限错误："><a href="#第2步，连接服务器，需要在上一步的同一窗口下，同时需要管理员权限，不可用本地权限，否则会出现写入权限错误：" class="headerlink" title="第2步，连接服务器，需要在上一步的同一窗口下，同时需要管理员权限，不可用本地权限，否则会出现写入权限错误："></a>第2步，连接服务器，需要在上一步的同一窗口下，同时需要管理员权限，不可用本地权限，否则会出现写入权限错误：</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$UserCredential &#x3D; Get-Credential</span><br></pre></td></tr></table></figure>
-<p>在弹出的对话框中，输入自己的邮箱管理员(例：<a href="mailto:&#x61;&#100;&#109;&#105;&#110;&#x40;&#x71;&#x69;&#x6b;&#97;&#105;&#108;&#101;&#46;&#116;&#x6b;">&#x61;&#100;&#109;&#105;&#110;&#x40;&#x71;&#x69;&#x6b;&#97;&#105;&#108;&#101;&#46;&#116;&#x6b;</a>)帐户信息。</p>
+<p>在弹出的对话框中，输入自己的邮箱管理员(例：<a href="mailto:&#x61;&#x64;&#109;&#105;&#x6e;&#x40;&#x71;&#105;&#x6b;&#97;&#x69;&#108;&#x65;&#x2e;&#116;&#x6b;">&#x61;&#x64;&#109;&#105;&#x6e;&#x40;&#x71;&#105;&#x6b;&#97;&#x69;&#108;&#x65;&#x2e;&#116;&#x6b;</a>)帐户信息。</p>
 <h4 id="第3步，建立新会话（session）："><a href="#第3步，建立新会话（session）：" class="headerlink" title="第3步，建立新会话（session）："></a>第3步，建立新会话（session）：</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$Session &#x3D; New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https:&#x2F;&#x2F;outlook.office365.com&#x2F;powershell-liveid&#x2F; -Credential $UserCredential -Authentication Basic -AllowRedirection</span><br></pre></td></tr></table></figure>
 
 <h4 id="第4步，进入新建的会话："><a href="#第4步，进入新建的会话：" class="headerlink" title="第4步，进入新建的会话："></a>第4步，进入新建的会话：</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Import-PSSession $Session</span><br></pre></td></tr></table></figure>
