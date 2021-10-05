@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://qikaile.tk/"/>
-  <updated>2021-08-23T05:11:36.353Z</updated>
+  <updated>2021-10-05T01:39:53.067Z</updated>
   <id>https://qikaile.tk/</id>
   
   <author>
@@ -17,11 +17,230 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>博客转移服务器,数据备份</title>
+    <link href="https://qikaile.tk/Typecho-blog-transfer.html"/>
+    <id>https://qikaile.tk/Typecho-blog-transfer.html</id>
+    <published>2021-09-25T09:24:23.000Z</published>
+    <updated>2021-10-05T01:39:53.067Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="Typecho" scheme="https://qikaile.tk/tags/Typecho/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>jsdelivr 如何刷新缓存</title>
+    <link href="https://qikaile.tk/Jsdelivr-flushes-cache.html"/>
+    <id>https://qikaile.tk/Jsdelivr-flushes-cache.html</id>
+    <published>2021-08-22T09:22:22.000Z</published>
+    <updated>2021-10-05T01:39:53.067Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="jsdelivr" scheme="https://qikaile.tk/tags/jsdelivr/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VB常见控件总结</title>
+    <link href="https://qikaile.tk/Summary-of-common-VB-controls.html"/>
+    <id>https://qikaile.tk/Summary-of-common-VB-controls.html</id>
+    <published>2021-08-09T09:18:14.000Z</published>
+    <updated>2021-10-05T01:39:53.067Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="VB6.0" scheme="https://qikaile.tk/tags/VB6-0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>VB6.0学习笔记</title>
+    <link href="https://qikaile.tk/VB6-0-study-notes.html"/>
+    <id>https://qikaile.tk/VB6-0-study-notes.html</id>
+    <published>2021-08-05T09:11:39.000Z</published>
+    <updated>2021-10-05T01:39:53.067Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="学习笔记" scheme="https://qikaile.tk/tags/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>必备软件+网站推荐</title>
+    <link href="https://qikaile.tk/software-website-recommend.html"/>
+    <id>https://qikaile.tk/software-website-recommend.html</id>
+    <published>2021-07-21T09:10:00.000Z</published>
+    <updated>2021-10-05T01:39:53.067Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>MATLAB如何进行系统辨识（传递函数）</title>
+    <link href="https://qikaile.tk/MATLAB-system-identification.html"/>
+    <id>https://qikaile.tk/MATLAB-system-identification.html</id>
+    <published>2021-07-21T09:06:34.000Z</published>
+    <updated>2021-10-05T01:39:53.067Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="MATLAB" scheme="https://qikaile.tk/tags/MATLAB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>升级sublime text4后激活及问题</title>
+    <link href="https://qikaile.tk/activate-sublime-text4.html"/>
+    <id>https://qikaile.tk/activate-sublime-text4.html</id>
+    <published>2021-07-15T09:03:19.000Z</published>
+    <updated>2021-10-05T01:39:53.067Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>虚拟主机安装开源图床--兰空图床（Lsky Pro）教程</title>
+    <link href="https://qikaile.tk/Lsky-Pro-tutorial.html"/>
+    <id>https://qikaile.tk/Lsky-Pro-tutorial.html</id>
+    <published>2021-07-09T08:58:48.000Z</published>
+    <updated>2021-10-05T01:39:53.067Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>搭建个人博客的随机图片api</title>
+    <link href="https://qikaile.tk/random-picture-api.html"/>
+    <id>https://qikaile.tk/random-picture-api.html</id>
+    <published>2021-07-07T08:53:37.000Z</published>
+    <updated>2021-10-05T01:39:53.067Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+      <category term="api" scheme="https://qikaile.tk/tags/api/"/>
+    
+  </entry>
+  
+  <entry>
     <title>如何在百度收录平台注册账号获取Token</title>
     <link href="https://qikaile.tk/baidu-token.html"/>
     <id>https://qikaile.tk/baidu-token.html</id>
     <published>2021-07-05T18:15:27.000Z</published>
-    <updated>2021-08-23T05:11:36.353Z</updated>
+    <updated>2021-10-05T01:39:53.067Z</updated>
     
     <summary type="html">
     
@@ -46,7 +265,7 @@
     <link href="https://qikaile.tk/15-useful-functions-of-Github.html"/>
     <id>https://qikaile.tk/15-useful-functions-of-Github.html</id>
     <published>2021-03-06T10:58:12.000Z</published>
-    <updated>2021-08-23T05:11:36.349Z</updated>
+    <updated>2021-10-05T01:39:53.063Z</updated>
     
     <summary type="html">
     
@@ -69,7 +288,7 @@
     <link href="https://qikaile.tk/onedrive-cf-index-tutorial.html"/>
     <id>https://qikaile.tk/onedrive-cf-index-tutorial.html</id>
     <published>2021-03-05T17:22:40.000Z</published>
-    <updated>2021-08-23T05:11:36.353Z</updated>
+    <updated>2021-10-05T01:39:53.067Z</updated>
     
     <summary type="html">
     
@@ -94,7 +313,7 @@
     <link href="https://qikaile.tk/uptime-status.html"/>
     <id>https://qikaile.tk/uptime-status.html</id>
     <published>2021-02-24T14:25:27.000Z</published>
-    <updated>2021-08-23T05:11:36.353Z</updated>
+    <updated>2021-10-05T01:39:53.067Z</updated>
     
     <summary type="html">
     
@@ -119,7 +338,7 @@
     <link href="https://qikaile.tk/github-fork-update.html"/>
     <id>https://qikaile.tk/github-fork-update.html</id>
     <published>2021-02-24T14:06:40.000Z</published>
-    <updated>2021-08-23T05:11:36.353Z</updated>
+    <updated>2021-10-05T01:39:53.067Z</updated>
     
     <summary type="html">
     
@@ -144,7 +363,7 @@
     <link href="https://qikaile.tk/hexo-next-Tag-Plugin.html"/>
     <id>https://qikaile.tk/hexo-next-Tag-Plugin.html</id>
     <published>2021-02-24T11:32:25.000Z</published>
-    <updated>2021-08-23T05:11:36.353Z</updated>
+    <updated>2021-10-05T01:39:53.067Z</updated>
     
     <summary type="html">
     
@@ -171,7 +390,7 @@
     <link href="https://qikaile.tk/github-picture-cdn.html"/>
     <id>https://qikaile.tk/github-picture-cdn.html</id>
     <published>2021-02-24T09:47:04.000Z</published>
-    <updated>2021-08-23T05:11:36.353Z</updated>
+    <updated>2021-10-05T01:39:53.067Z</updated>
     
     <summary type="html">
     
@@ -198,7 +417,7 @@
     <link href="https://qikaile.tk/CloudFlare-optional-ip.html"/>
     <id>https://qikaile.tk/CloudFlare-optional-ip.html</id>
     <published>2021-02-19T21:40:09.000Z</published>
-    <updated>2021-08-23T05:11:36.349Z</updated>
+    <updated>2021-10-05T01:39:53.063Z</updated>
     
     <summary type="html">
     
@@ -225,7 +444,7 @@
     <link href="https://qikaile.tk/OneManager-CloudFlare-Workers.html"/>
     <id>https://qikaile.tk/OneManager-CloudFlare-Workers.html</id>
     <published>2021-02-09T20:57:38.000Z</published>
-    <updated>2021-08-23T05:11:36.353Z</updated>
+    <updated>2021-10-05T01:39:53.067Z</updated>
     
     <summary type="html">
     
@@ -250,7 +469,7 @@
     <link href="https://qikaile.tk/Cloudreve.html"/>
     <id>https://qikaile.tk/Cloudreve.html</id>
     <published>2021-02-09T14:18:28.000Z</published>
-    <updated>2021-08-23T05:11:36.353Z</updated>
+    <updated>2021-10-05T01:39:53.063Z</updated>
     
     <summary type="html">
     
@@ -275,7 +494,7 @@
     <link href="https://qikaile.tk/vercel-cdn-website.html"/>
     <id>https://qikaile.tk/vercel-cdn-website.html</id>
     <published>2021-02-05T16:19:22.000Z</published>
-    <updated>2021-08-23T05:11:36.353Z</updated>
+    <updated>2021-10-05T01:39:53.067Z</updated>
     
     <summary type="html">
     
@@ -294,221 +513,6 @@
     
     
       <category term="vercel" scheme="https://qikaile.tk/tags/vercel/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo中使用emoji表情</title>
-    <link href="https://qikaile.tk/hexo-emoji.html"/>
-    <id>https://qikaile.tk/hexo-emoji.html</id>
-    <published>2021-01-20T11:13:23.000Z</published>
-    <updated>2021-08-23T05:11:36.353Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="Hexo" scheme="https://qikaile.tk/categories/Hexo/"/>
-    
-    
-      <category term="Hexo" scheme="https://qikaile.tk/tags/Hexo/"/>
-    
-      <category term="Emoji" scheme="https://qikaile.tk/tags/Emoji/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Office365邮局开启SPF、DKIM与DMARC</title>
-    <link href="https://qikaile.tk/Office365-Post-Office-opens-SPF-DKIM-DMARC.html"/>
-    <id>https://qikaile.tk/Office365-Post-Office-opens-SPF-DKIM-DMARC.html</id>
-    <published>2021-01-20T11:00:12.000Z</published>
-    <updated>2021-08-23T05:11:36.353Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="Office" scheme="https://qikaile.tk/tags/Office/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Abaqus 有限元教程(气动网弯曲执行器)</title>
-    <link href="https://qikaile.tk/FEM-analysis-of-PneuNet-actuator.html"/>
-    <id>https://qikaile.tk/FEM-analysis-of-PneuNet-actuator.html</id>
-    <published>2020-12-14T19:51:55.000Z</published>
-    <updated>2021-08-23T05:11:36.353Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
-      <category term="有限元分析" scheme="https://qikaile.tk/categories/%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90/"/>
-    
-    
-      <category term="有限元分析" scheme="https://qikaile.tk/tags/%E6%9C%89%E9%99%90%E5%85%83%E5%88%86%E6%9E%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Solidworks学习笔记</title>
-    <link href="https://qikaile.tk/solidworks-note.html"/>
-    <id>https://qikaile.tk/solidworks-note.html</id>
-    <published>2020-11-19T10:40:26.000Z</published>
-    <updated>2021-08-23T05:11:36.353Z</updated>
-    
-    <summary type="html">
-    
-      作为机械专业的一员，掌握常用软件是必须具备的素质之一。本文是小编通过对solidworks的学习，整理的solidworks学习笔记，希望对您有所帮助，欢迎阅读收藏！
-    
-    </summary>
-    
-    
-    
-      <category term="Solidworks" scheme="https://qikaile.tk/tags/Solidworks/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>听力必考21大场景</title>
-    <link href="https://qikaile.tk/Scenes-of-Listening.html"/>
-    <id>https://qikaile.tk/Scenes-of-Listening.html</id>
-    <published>2020-11-19T10:32:52.000Z</published>
-    <updated>2021-08-23T05:11:36.353Z</updated>
-    
-    <summary type="html">
-    
-      听力考试分为很多场景，在备考中提前熟知场景类型是很必要的，本文为大家归纳听力常见的21大场景，供大家参考。
-    
-    </summary>
-    
-    
-    
-      <category term="English" scheme="https://qikaile.tk/tags/English/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>免费申请 Office365 E5 开发者订阅</title>
-    <link href="https://qikaile.tk/Office365-E5.html"/>
-    <id>https://qikaile.tk/Office365-E5.html</id>
-    <published>2020-11-19T10:28:03.000Z</published>
-    <updated>2021-08-23T05:11:36.353Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="Office" scheme="https://qikaile.tk/tags/Office/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>免费开源剪辑软件Shotcut推荐和使用教程</title>
-    <link href="https://qikaile.tk/Shotcut.html"/>
-    <id>https://qikaile.tk/Shotcut.html</id>
-    <published>2020-11-19T09:09:28.000Z</published>
-    <updated>2021-08-23T05:11:36.353Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Python绘图</title>
-    <link href="https://qikaile.tk/Python-matplotlib-Seaborn.html"/>
-    <id>https://qikaile.tk/Python-matplotlib-Seaborn.html</id>
-    <published>2020-11-19T08:55:33.000Z</published>
-    <updated>2021-08-23T05:11:36.353Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
-    
-      <category term="Python" scheme="https://qikaile.tk/tags/Python/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>markdown笔记</title>
-    <link href="https://qikaile.tk/markdown-note.html"/>
-    <id>https://qikaile.tk/markdown-note.html</id>
-    <published>2020-06-15T00:00:00.000Z</published>
-    <updated>2021-08-23T05:11:36.353Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;
-        
-      
-    
-    </summary>
-    
-    
     
   </entry>
   
