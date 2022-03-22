@@ -144,14 +144,14 @@ layout: about
 <br />
 <br />
 {% gallery %}
-[<img align="left" alt="邮箱" width="40px" src="https://cdn.jsdelivr.net/gh/Qikaile/cdn/icon/gmail.png" />][gmail]
-[<img align="left" alt="云生博客" width="40px" src="https://cdn.jsdelivr.net/gh/Qikaile/cdn/icon/globe.png" />][website]
-[<img align="left" alt="Qikaile | Github" width="40px" src="https://cdn.jsdelivr.net/gh/Qikaile/cdn/icon/github.png" />][Github]
-[<img align="left" alt="Qikaile | Telegram" width="40px" src="https://cdn.jsdelivr.net/gh/Qikaile/cdn/icon/telegram.png" />][Telegram]
-[<img align="left" alt="Qikaile | YouTube" width="40px" src="https://cdn.jsdelivr.net/gh/Qikaile/cdn/icon/youtube.png" />][youtube]
-[<img align="left" alt="Qikaile | facebook" width="40px" src="https://cdn.jsdelivr.net/gh/Qikaile/cdn/icon/facebook.png" />][facebook]
-[<img align="left" alt="Qikaile | Twitter" width="40px" src="https://cdn.jsdelivr.net/gh/Qikaile/cdn/icon/twitter.png" />][twitter]
-[<img align="left" alt="Qikaile | Instagram" width="40px" src="https://cdn.jsdelivr.net/gh/Qikaile/cdn/icon/instagram.png" />][instagram]
+[<img align="left" alt="邮箱" width="40px" src="https://cdn1.tianli0.top/gh/Qikaile/cdn/icon/gmail.png" />][gmail]
+[<img align="left" alt="云生博客" width="40px" src="https://cdn1.tianli0.top/gh/Qikaile/cdn/icon/globe.png" />][website]
+[<img align="left" alt="Qikaile | Github" width="40px" src="https://cdn1.tianli0.top/gh/Qikaile/cdn/icon/github.png" />][Github]
+[<img align="left" alt="Qikaile | Telegram" width="40px" src="https://cdn1.tianli0.top/gh/Qikaile/cdn/icon/telegram.png" />][Telegram]
+[<img align="left" alt="Qikaile | YouTube" width="40px" src="https://cdn1.tianli0.top/gh/Qikaile/cdn/icon/youtube.png" />][youtube]
+[<img align="left" alt="Qikaile | facebook" width="40px" src="https://cdn1.tianli0.top/gh/Qikaile/cdn/icon/facebook.png" />][facebook]
+[<img align="left" alt="Qikaile | Twitter" width="40px" src="https://cdn1.tianli0.top/gh/Qikaile/cdn/icon/twitter.png" />][twitter]
+[<img align="left" alt="Qikaile | Instagram" width="40px" src="https://cdn1.tianli0.top/gh/Qikaile/cdn/icon/instagram.png" />][instagram]
 
 [website]: https://qikaile.tk
 [gmail]: mailto:admin@qikaile.tk
@@ -168,7 +168,7 @@ layout: about
 
 # 👨客观评价
 {% gallery %}
-![云生的人格类型](https://cdn.jsdelivr.net/gh/Qikaile/cdn/img/image-20200919113003371.png)
+![云生的人格类型](https://cdn1.tianli0.top/gh/Qikaile/cdn/img/image-20200919113003371.png)
 {% endgallery %}
 
 # 📆建站历程

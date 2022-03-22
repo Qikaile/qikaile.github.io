@@ -37,7 +37,7 @@ var SearchService = "";
         'baidu': {logo: 'baidu.svg', url: 'http://zn.baidu.com/cse/home/index'},
         'azure': {logo: 'azure.svg', url: 'https://azure.microsoft.com/en-us/services/search/'}
       },
-      imagePath: "https://cdn.jsdelivr.net/gh/volantis-x/cdn-volantis@master/img/"
+      imagePath: "https://cdn1.tianli0.top/gh/volantis-x/cdn-volantis@master/img/"
     }, options);
 
     self.dom = {};

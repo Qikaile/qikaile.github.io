@@ -3232,17 +3232,17 @@ textarea,
 cursor: $text,
 text !important,
 .fancybox-container .fancybox-stage {
-  cursor: url("https://cdn.jsdelivr.net/gh/inkss/common@master/cursor/zoom-out.png"), zoom-out !important;
+  cursor: url("https://cdn1.tianli0.top/gh/inkss/common@master/cursor/zoom-out.png"), zoom-out !important;
 }
 .fancybox a,
 .fancybox-can-zoomIn .fancybox-content {
-  cursor: url("https://cdn.jsdelivr.net/gh/inkss/common@master/cursor/zoom-in.png"), zoom-in !important;
+  cursor: url("https://cdn1.tianli0.top/gh/inkss/common@master/cursor/zoom-in.png"), zoom-in !important;
 }
 span.btn>a:not([href]):hover,
 .fancybox-button[disabled],
 .fancybox-button[disabled]:hover,
 .gt-container .gt-btn.is--disable {
-  cursor: url("https://cdn.jsdelivr.net/gh/inkss/common@master/cursor/circle.png"), not-allowed !important;
+  cursor: url("https://cdn1.tianli0.top/gh/inkss/common@master/cursor/circle.png"), not-allowed !important;
 }
 html,
 a:not([href]),
@@ -3263,7 +3263,7 @@ kbd,
 .aplayer .aplayer-info .aplayer-music,
 .gt-container a.is--active,
 .fix-cursor-default {
-  cursor: url("https://cdn.jsdelivr.net/gh/inkss/common@master/cursor/left_ptr.png"), default !important;
+  cursor: url("https://cdn1.tianli0.top/gh/inkss/common@master/cursor/left_ptr.png"), default !important;
 }
 a,
 button,
@@ -3326,7 +3326,7 @@ a.result.search-result-fix,
 .gt-container .gt-comment-edit:hover,
 .gt-container .gt-comment-reply:hover,
 .fix-cursor-pointer {
-  cursor: url("https://cdn.jsdelivr.net/gh/inkss/common@master/cursor/pointer.png"), pointer !important;
+  cursor: url("https://cdn1.tianli0.top/gh/inkss/common@master/cursor/pointer.png"), pointer !important;
 }
 article#arc,
 article#cat,
