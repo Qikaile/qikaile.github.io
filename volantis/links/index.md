@@ -24,9 +24,9 @@ layout: friends
 >
 > 链接：https://qikaile.tk
 >
-> 头像：https://npm.elemecdn.com/boke-cdn/img/-1427d877db8c4c5c.jpg
+> 头像：https://gcore.jsdelivr.net/npm/boke-cdn/img/-1427d877db8c4c5c.jpg
 >
-> 网站截图：https://npm.elemecdn.com/boke-cdn/img/qikaile.tk.2r3uxmfxif20.jpg
+> 网站截图：https://gcore.jsdelivr.net/npm/boke-cdn/img/qikaile.tk.2r3uxmfxif20.jpg
 >
 > 描述：心静思远，志行千里。
 

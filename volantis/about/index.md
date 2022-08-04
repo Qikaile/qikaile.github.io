@@ -168,7 +168,7 @@ layout: about
 
 # 👨客观评价
 {% gallery %}
-![云生的人格类型](https://npm.elemecdn.com/boke-cdn/img/image-20200919113003371.png)
+![云生的人格类型](https://gcore.jsdelivr.net/npm/boke-cdn/img/image-20200919113003371.png)
 {% endgallery %}
 
 # 📆建站历程
